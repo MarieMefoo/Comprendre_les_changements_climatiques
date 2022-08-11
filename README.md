@@ -16,8 +16,8 @@ En tant que data analyste, pour répondre à la problématique décrite, 03 miss
 ## **Données**
 pour la partie préprocessing 6 bases de données ont été exporté de divers sites, nettoyées afin d'obtenir des données utilisable par notre outils de visualisation Tableau Desktop dans ce cas de figure.
 - La première table recence les données des pays **Pays_continent.csv**
-- données sur les contienents dans lesquels se trouvent les différents pays: Country_all.csv**
-- données de l'évolution de la  température globale à la surface enregistré dans les pays du monde par rapport à une année de reférence 1961: **Mean_Global_Surface8Temparature.csv**
+- données sur les contienents dans lesquels se trouvent les différents pays: **Country_all.csv**
+- données de l'évolution de la  température globale à la surface enregistrée dans les pays du monde par rapport à une année de reférence 1961: **Mean_Global_Surface8Temparature.csv**
 - niveau de mer observé dans les océans et mers de 1992 à 2021: **Change_in_Mean_Sea_Levels.xlsx**
 - fréquence de catastrophe dues au changement climatique enregistrées dans chaque pays 1980 à 2020: **Climate_related_disaster_frequency.csv**
 - Quantité de Gaz à effet de serre (en tonne équivalent CO2) émis de 2000 à 2019 pour chaque pays et suivant chaque domaine: **Faostat_data_3-16-2022.csv**.
@@ -27,7 +27,7 @@ Pour le passage à la visualisation sur  Tableau, après le traitement de donné
 - **Sea_mean.csv**
 - **Disaster.csv**
 - **table_GES2.csv**
-- **GES_sector**: Table regroupant les différents secteurs d'emission des gaz à effet de serre.
+- **GES_sector.csv**: Table regroupant les différents secteurs d'emission des gaz à effet de serre.
 
 ## **Compétences évaluées**
 - Communiquer ses résultats à l’aide de visualisations
