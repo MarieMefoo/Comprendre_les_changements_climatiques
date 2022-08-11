@@ -1,0 +1,3386 @@
+date,ISO3,name_disaster,nbr_catastrophe
+2000,AFG,Sécheresse,1
+2000,AGO,Inondation,4
+2000,ARG,Incendies,1
+2000,ARG,Inondation,4
+2000,ARG,Orage,2
+2000,ARG,Température extrême,1
+2000,ARM,Sécheresse,1
+2000,AUS,Incendies,1
+2000,AUS,Inondation,1
+2000,AUS,Orage,3
+2000,AUT,Orage,1
+2000,AZE,Sécheresse,1
+2000,BDI,Inondation,1
+2000,BGD,Inondation,3
+2000,BGD,Orage,7
+2000,BGD,Température extrême,1
+2000,BGR,Incendies,1
+2000,BGR,Sécheresse,1
+2000,BGR,Température extrême,2
+2000,BIH,Sécheresse,1
+2000,BLR,Température extrême,1
+2000,BLZ,Orage,1
+2000,BOL,Inondation,2
+2000,BOL,Sécheresse,1
+2000,BOL,Température extrême,1
+2000,BRA,Inondation,4
+2000,BRA,Température extrême,1
+2000,BTN,Inondation,1
+2000,BWA,Inondation,1
+2000,CAN,Orage,1
+2000,CHL,Inondation,2
+2000,CHL,Température extrême,1
+2000,CHN,Inondation,9
+2000,CHN,Orage,10
+2000,CHN,Sécheresse,3
+2000,CMR,Inondation,1
+2000,COL,Inondation,3
+2000,CUB,Inondation,1
+2000,CUB,Sécheresse,1
+2000,CYP,Incendies,1
+2000,CYP,Sécheresse,1
+2000,CYP,Température extrême,1
+2000,CZE,Inondation,1
+2000,DZA,Inondation,4
+2000,DZA,Orage,1
+2000,ECU,Inondation,1
+2000,EGY,Température extrême,1
+2000,ESP,Incendies,1
+2000,ESP,Inondation,2
+2000,ESP,Orage,2
+2000,ETH,Incendies,1
+2000,ETH,Inondation,2
+2000,FJI,Inondation,1
+2000,FRA,Inondation,6
+2000,FRA,Orage,1
+2000,GBR,Inondation,3
+2000,GBR,Orage,3
+2000,GEO,Sécheresse,1
+2000,GIN,Orage,1
+2000,GRC,Incendies,2
+2000,GRC,Inondation,2
+2000,GRC,Température extrême,1
+2000,GTM,Inondation,2
+2000,HND,Incendies,1
+2000,HND,Sécheresse,1
+2000,HRV,Incendies,1
+2000,HRV,Inondation,1
+2000,HRV,Température extrême,1
+2000,HTI,Inondation,2
+2000,HUN,Inondation,1
+2000,IDN,Incendies,1
+2000,IDN,Inondation,3
+2000,IND,Inondation,6
+2000,IND,Orage,2
+2000,IND,Sécheresse,1
+2000,IND,Température extrême,1
+2000,IRL,Orage,1
+2000,IRN,Inondation,3
+2000,IRN,Orage,1
+2000,ISR,Orage,1
+2000,ISR,Température extrême,1
+2000,ITA,Inondation,4
+2000,JAM,Sécheresse,1
+2000,JOR,Orage,1
+2000,JOR,Sécheresse,1
+2000,JOR,Température extrême,1
+2000,JPN,Inondation,1
+2000,JPN,Orage,3
+2000,KAZ,Inondation,1
+2000,KGZ,Température extrême,1
+2000,KHM,Inondation,1
+2000,KOR,Incendies,1
+2000,KOR,Inondation,2
+2000,KOR,Orage,2
+2000,LAO,Inondation,1
+2000,LKA,Inondation,2
+2000,LKA,Orage,1
+2000,MAR,Inondation,2
+2000,MAR,Température extrême,1
+2000,MDA,Orage,1
+2000,MDA,Sécheresse,1
+2000,MDG,Orage,2
+2000,MDG,Sécheresse,1
+2000,MEX,Inondation,3
+2000,MEX,Orage,2
+2000,MEX,Température extrême,1
+2000,MKD,Incendies,1
+2000,MLI,Inondation,1
+2000,MNG,Orage,2
+2000,MNG,Sécheresse,1
+2000,MOZ,Inondation,1
+2000,MOZ,Orage,4
+2000,MWI,Inondation,1
+2000,MYS,Inondation,1
+2000,MYS,Orage,1
+2000,NAM,Inondation,1
+2000,NER,Inondation,1
+2000,NGA,Inondation,6
+2000,NGA,Orage,1
+2000,NIC,Inondation,1
+2000,NIC,Orage,2
+2000,NIC,Sécheresse,1
+2000,NOR,Inondation,1
+2000,NPL,Inondation,1
+2000,NZL,Inondation,1
+2000,NZL,Orage,1
+2000,PAK,Température extrême,1
+2000,PAN,Inondation,1
+2000,PER,Inondation,1
+2000,PHL,Inondation,3
+2000,PHL,Orage,6
+2000,POL,Température extrême,1
+2000,PRK,Orage,1
+2000,PRT,Orage,1
+2000,PRY,Température extrême,1
+2000,REU,Orage,1
+2000,ROU,Inondation,2
+2000,ROU,Orage,1
+2000,ROU,Sécheresse,1
+2000,ROU,Température extrême,1
+2000,RUS,Incendies,5
+2000,RUS,Inondation,8
+2000,RUS,Orage,1
+2000,RUS,Température extrême,3
+2000,SCG,Incendies,1
+2000,SCG,Inondation,2
+2000,SCG,Température extrême,1
+2000,SEN,Inondation,1
+2000,SLV,Inondation,1
+2000,SLV,Orage,1
+2000,SOM,Inondation,3
+2000,SVK,Incendies,1
+2000,SWZ,Inondation,1
+2000,THA,Inondation,4
+2000,THA,Orage,1
+2000,TJK,Sécheresse,1
+2000,TUR,Incendies,2
+2000,TUR,Inondation,1
+2000,TUR,Température extrême,1
+2000,TWN,Orage,2
+2000,TZA,Inondation,1
+2000,UGA,Orage,2
+2000,UKR,Orage,3
+2000,UKR,Température extrême,1
+2000,URY,Inondation,1
+2000,URY,Orage,1
+2000,URY,Température extrême,1
+2000,USA,Incendies,7
+2000,USA,Inondation,8
+2000,USA,Orage,12
+2000,USA,Sécheresse,2
+2000,USA,Température extrême,1
+2000,UZB,Sécheresse,1
+2000,VEN,Inondation,2
+2000,VNM,Inondation,2
+2000,VNM,Orage,7
+2000,ZAF,Incendies,1
+2000,ZAF,Inondation,3
+2000,ZAF,Orage,1
+2000,ZMB,Inondation,1
+2000,ZWE,Inondation,1
+2001,AFG,Température extrême,2
+2001,AGO,Inondation,2
+2001,AGO,Sécheresse,1
+2001,ARG,Incendies,1
+2001,ARG,Inondation,3
+2001,ARG,Orage,2
+2001,ARG,Température extrême,1
+2001,AUS,Incendies,2
+2001,AUS,Inondation,4
+2001,AUS,Orage,3
+2001,BFA,Sécheresse,1
+2001,BGD,Inondation,2
+2001,BGD,Orage,4
+2001,BGD,Température extrême,1
+2001,BGR,Incendies,1
+2001,BGR,Orage,1
+2001,BHS,Orage,1
+2001,BIH,Inondation,1
+2001,BLZ,Orage,2
+2001,BOL,Inondation,1
+2001,BOL,Température extrême,1
+2001,BRA,Inondation,3
+2001,BRA,Orage,1
+2001,BRA,Sécheresse,1
+2001,CAF,Orage,1
+2001,CAN,Incendies,1
+2001,CAN,Orage,1
+2001,CHE,Température extrême,1
+2001,CHL,Inondation,3
+2001,CHL,Orage,1
+2001,CHN,Inondation,9
+2001,CHN,Orage,10
+2001,CHN,Sécheresse,2
+2001,CMR,Inondation,1
+2001,CMR,Sécheresse,1
+2001,COD,Inondation,2
+2001,COK,Orage,1
+2001,COL,Incendies,1
+2001,COL,Inondation,2
+2001,COL,Orage,1
+2001,CRI,Inondation,1
+2001,CUB,Orage,1
+2001,CYM,Orage,1
+2001,DEU,Orage,1
+2001,DOM,Orage,1
+2001,DZA,Inondation,1
+2001,ECU,Inondation,2
+2001,ESP,Orage,1
+2001,ETH,Inondation,3
+2001,FJI,Orage,1
+2001,FRA,Inondation,5
+2001,FRA,Orage,2
+2001,GBR,Inondation,2
+2001,GEO,Orage,1
+2001,GHA,Inondation,1
+2001,GIN,Inondation,1
+2001,GMB,Inondation,1
+2001,GRC,Inondation,2
+2001,GTM,Orage,1
+2001,GTM,Sécheresse,1
+2001,GTM,Température extrême,1
+2001,HND,Orage,1
+2001,HND,Sécheresse,1
+2001,HRV,Inondation,1
+2001,HTI,Inondation,1
+2001,HTI,Orage,1
+2001,HUN,Inondation,1
+2001,HUN,Température extrême,1
+2001,IDN,Inondation,4
+2001,IND,Inondation,9
+2001,IND,Orage,3
+2001,IND,Température extrême,2
+2001,IRN,Inondation,4
+2001,ITA,Inondation,2
+2001,ITA,Orage,1
+2001,JAM,Orage,1
+2001,JPN,Inondation,1
+2001,JPN,Orage,4
+2001,KAZ,Inondation,1
+2001,KAZ,Température extrême,1
+2001,KEN,Inondation,1
+2001,KHM,Inondation,1
+2001,KHM,Sécheresse,1
+2001,KOR,Inondation,2
+2001,KOR,Orage,1
+2001,KOR,Sécheresse,1
+2001,LAO,Inondation,1
+2001,LKA,Inondation,1
+2001,LKA,Sécheresse,1
+2001,LSO,Orage,2
+2001,LTU,Température extrême,1
+2001,LVA,Température extrême,1
+2001,MAR,Inondation,1
+2001,MEX,Inondation,1
+2001,MEX,Orage,5
+2001,MKD,Température extrême,1
+2001,MLI,Inondation,1
+2001,MLI,Sécheresse,1
+2001,MMR,Inondation,1
+2001,MNG,Orage,1
+2001,MOZ,Inondation,2
+2001,MOZ,Sécheresse,2
+2001,MRT,Inondation,1
+2001,MRT,Sécheresse,1
+2001,MWI,Inondation,2
+2001,MYS,Inondation,4
+2001,NAM,Sécheresse,1
+2001,NER,Inondation,1
+2001,NER,Sécheresse,1
+2001,NGA,Inondation,3
+2001,NIC,Orage,1
+2001,NIC,Sécheresse,1
+2001,NOR,Inondation,1
+2001,NZL,Température extrême,1
+2001,PAK,Inondation,1
+2001,PAK,Orage,1
+2001,PAK,Température extrême,1
+2001,PAN,Inondation,1
+2001,PER,Inondation,3
+2001,PHL,Inondation,3
+2001,PHL,Orage,6
+2001,POL,Inondation,1
+2001,POL,Température extrême,1
+2001,PRI,Inondation,1
+2001,PRK,Inondation,2
+2001,PRT,Incendies,1
+2001,PRT,Inondation,1
+2001,ROU,Inondation,2
+2001,ROU,Température extrême,1
+2001,RUS,Incendies,2
+2001,RUS,Inondation,3
+2001,RUS,Orage,2
+2001,RUS,Température extrême,3
+2001,RWA,Inondation,2
+2001,SDN,Inondation,1
+2001,SHN,Orage,1
+2001,SLV,Inondation,1
+2001,SLV,Sécheresse,1
+2001,SOM,Inondation,1
+2001,SPI,Inondation,1
+2001,SVK,Inondation,1
+2001,SWZ,Sécheresse,1
+2001,SYR,Orage,1
+2001,TCD,Inondation,1
+2001,TCD,Sécheresse,1
+2001,THA,Inondation,5
+2001,THA,Orage,1
+2001,TJK,Inondation,1
+2001,TJK,Orage,1
+2001,TLS,Inondation,1
+2001,TON,Orage,1
+2001,TUR,Inondation,3
+2001,TUR,Température extrême,1
+2001,TWN,Orage,5
+2001,TZA,Inondation,1
+2001,UGA,Inondation,2
+2001,UKR,Inondation,1
+2001,URY,Inondation,1
+2001,USA,Incendies,3
+2001,USA,Inondation,5
+2001,USA,Orage,17
+2001,USA,Température extrême,1
+2001,VNM,Inondation,4
+2001,VNM,Orage,3
+2001,VUT,Orage,2
+2001,WSM,Inondation,1
+2001,YEM,Inondation,1
+2001,YEM,Orage,2
+2001,ZAF,Incendies,2
+2001,ZAF,Inondation,2
+2001,ZAF,Orage,2
+2001,ZMB,Inondation,1
+2001,ZWE,Inondation,1
+2001,ZWE,Sécheresse,1
+2002,AFG,Inondation,4
+2002,AGO,Inondation,1
+2002,ALB,Inondation,1
+2002,ALB,Orage,1
+2002,ARG,Inondation,1
+2002,ARG,Orage,1
+2002,ARG,Température extrême,1
+2002,AUS,Incendies,1
+2002,AUS,Orage,3
+2002,AUS,Sécheresse,1
+2002,AUT,Inondation,1
+2002,AUT,Orage,2
+2002,BDI,Inondation,2
+2002,BEL,Inondation,4
+2002,BEL,Orage,1
+2002,BGD,Inondation,1
+2002,BGD,Orage,4
+2002,BGD,Température extrême,1
+2002,BGR,Inondation,1
+2002,BOL,Incendies,1
+2002,BOL,Inondation,1
+2002,BOL,Orage,1
+2002,BRA,Inondation,2
+2002,BRA,Sécheresse,1
+2002,BRB,Orage,1
+2002,CAF,Incendies,1
+2002,CAN,Incendies,1
+2002,CAN,Inondation,1
+2002,CHE,Orage,1
+2002,CHL,Incendies,1
+2002,CHL,Inondation,3
+2002,CHL,Température extrême,1
+2002,CHN,Inondation,10
+2002,CHN,Orage,6
+2002,CHN,Sécheresse,3
+2002,CHN,Température extrême,1
+2002,COD,Inondation,1
+2002,COG,Inondation,1
+2002,COL,Inondation,4
+2002,CPV,Sécheresse,1
+2002,CRI,Inondation,2
+2002,CUB,Inondation,1
+2002,CUB,Orage,2
+2002,CYM,Orage,2
+2002,CZE,Inondation,1
+2002,CZE,Orage,2
+2002,DEU,Inondation,1
+2002,DEU,Orage,3
+2002,DNK,Orage,1
+2002,DOM,Inondation,1
+2002,DZA,Inondation,3
+2002,ECU,Inondation,2
+2002,EGY,Inondation,2
+2002,ESP,Inondation,1
+2002,ETH,Inondation,1
+2002,FRA,Inondation,3
+2002,FRA,Orage,2
+2002,FSM,Orage,2
+2002,GBR,Inondation,3
+2002,GBR,Orage,2
+2002,GHA,Inondation,2
+2002,GMB,Sécheresse,1
+2002,GNB,Sécheresse,1
+2002,GRC,Inondation,4
+2002,GRC,Orage,1
+2002,GRD,Orage,1
+2002,GTM,Inondation,1
+2002,GTM,Orage,1
+2002,GUM,Orage,2
+2002,HND,Inondation,3
+2002,HND,Sécheresse,1
+2002,HTI,Inondation,1
+2002,HTI,Orage,1
+2002,HUN,Inondation,1
+2002,IDN,Incendies,1
+2002,IDN,Inondation,7
+2002,IND,Inondation,6
+2002,IND,Orage,4
+2002,IND,Sécheresse,1
+2002,IND,Température extrême,2
+2002,IRL,Inondation,1
+2002,IRN,Incendies,1
+2002,IRN,Inondation,3
+2002,ITA,Inondation,3
+2002,ITA,Sécheresse,1
+2002,JAM,Inondation,1
+2002,JAM,Orage,2
+2002,JOR,Orage,1
+2002,JPN,Incendies,1
+2002,JPN,Orage,5
+2002,KEN,Inondation,4
+2002,KHM,Inondation,1
+2002,KHM,Sécheresse,1
+2002,KOR,Inondation,1
+2002,KOR,Orage,3
+2002,LAO,Inondation,1
+2002,LBN,Orage,1
+2002,LKA,Inondation,1
+2002,LSO,Sécheresse,1
+2002,MAR,Inondation,1
+2002,MDA,Inondation,1
+2002,MDG,Orage,3
+2002,MDG,Sécheresse,1
+2002,MEX,Inondation,2
+2002,MEX,Orage,3
+2002,MEX,Sécheresse,1
+2002,MEX,Température extrême,1
+2002,MKD,Inondation,1
+2002,MLI,Inondation,1
+2002,MMR,Inondation,1
+2002,MNG,Orage,2
+2002,MNP,Orage,1
+2002,MOZ,Inondation,1
+2002,MOZ,Orage,1
+2002,MRT,Inondation,1
+2002,MUS,Orage,1
+2002,MWI,Inondation,2
+2002,MWI,Sécheresse,1
+2002,MYS,Orage,1
+2002,NAM,Sécheresse,1
+2002,NER,Orage,1
+2002,NGA,Inondation,1
+2002,NGA,Température extrême,1
+2002,NIC,Incendies,1
+2002,NIC,Inondation,1
+2002,NIC,Orage,1
+2002,NLD,Orage,1
+2002,NPL,Température extrême,1
+2002,NZL,Inondation,1
+2002,OMN,Orage,1
+2002,PAK,Inondation,3
+2002,PAK,Orage,1
+2002,PAK,Température extrême,2
+2002,PAN,Inondation,2
+2002,PER,Inondation,3
+2002,PER,Orage,1
+2002,PER,Sécheresse,1
+2002,PHL,Inondation,4
+2002,PHL,Orage,6
+2002,PHL,Sécheresse,1
+2002,POL,Orage,2
+2002,POL,Température extrême,1
+2002,PRK,Inondation,1
+2002,PRK,Orage,1
+2002,PRT,Inondation,1
+2002,PRY,Inondation,1
+2002,PRY,Orage,1
+2002,REU,Orage,1
+2002,ROU,Inondation,3
+2002,ROU,Température extrême,1
+2002,RUS,Incendies,3
+2002,RUS,Inondation,4
+2002,RUS,Orage,2
+2002,RUS,Température extrême,1
+2002,RWA,Inondation,1
+2002,SAU,Inondation,1
+2002,SCG,Inondation,1
+2002,SDN,Inondation,1
+2002,SDN,Orage,1
+2002,SEN,Inondation,1
+2002,SEN,Sécheresse,1
+2002,SLB,Orage,1
+2002,SLV,Inondation,1
+2002,SLV,Orage,1
+2002,SOM,Inondation,1
+2002,SPI,Inondation,1
+2002,SVK,Inondation,1
+2002,SWE,Orage,1
+2002,SYC,Orage,1
+2002,THA,Inondation,2
+2002,THA,Orage,2
+2002,THA,Sécheresse,1
+2002,TJK,Inondation,4
+2002,TUR,Inondation,1
+2002,TUR,Orage,1
+2002,TWN,Orage,2
+2002,TZA,Inondation,1
+2002,UGA,Inondation,2
+2002,UGA,Orage,1
+2002,UGA,Sécheresse,1
+2002,URY,Inondation,1
+2002,URY,Orage,1
+2002,USA,Incendies,8
+2002,USA,Inondation,4
+2002,USA,Orage,15
+2002,USA,Sécheresse,1
+2002,USA,Température extrême,1
+2002,VCT,Orage,1
+2002,VEN,Inondation,1
+2002,VNM,Incendies,1
+2002,VNM,Inondation,3
+2002,VNM,Orage,1
+2002,VNM,Sécheresse,1
+2002,VUT,Inondation,1
+2002,YEM,Inondation,4
+2002,ZAF,Incendies,1
+2002,ZAF,Inondation,1
+2002,ZAF,Orage,4
+2003,AFG,Inondation,8
+2003,AGO,Inondation,2
+2003,ARG,Inondation,2
+2003,ARG,Orage,1
+2003,ARG,Sécheresse,1
+2003,ASM,Inondation,1
+2003,AUS,Incendies,1
+2003,AUS,Inondation,4
+2003,AUS,Orage,5
+2003,AUT,Température extrême,1
+2003,AZE,Inondation,1
+2003,BDI,Sécheresse,1
+2003,BEL,Inondation,1
+2003,BEL,Température extrême,1
+2003,BFA,Inondation,1
+2003,BGD,Inondation,2
+2003,BGD,Orage,3
+2003,BGD,Température extrême,2
+2003,BIH,Sécheresse,1
+2003,BMU,Orage,1
+2003,BOL,Inondation,3
+2003,BRA,Inondation,5
+2003,CAF,Inondation,1
+2003,CAN,Incendies,1
+2003,CAN,Inondation,4
+2003,CAN,Orage,2
+2003,CHE,Orage,1
+2003,CHE,Température extrême,1
+2003,CHL,Incendies,1
+2003,CHN,Incendies,1
+2003,CHN,Inondation,6
+2003,CHN,Orage,5
+2003,CHN,Sécheresse,2
+2003,COD,Inondation,2
+2003,COD,Orage,2
+2003,COL,Inondation,3
+2003,COM,Orage,1
+2003,CRI,Inondation,1
+2003,CUB,Inondation,1
+2003,CYP,Orage,1
+2003,CZE,Température extrême,1
+2003,DEU,Orage,2
+2003,DEU,Température extrême,1
+2003,DOM,Inondation,2
+2003,DOM,Orage,1
+2003,DZA,Inondation,3
+2003,DZA,Orage,1
+2003,DZA,Température extrême,1
+2003,ECU,Inondation,1
+2003,ERI,Inondation,1
+2003,ESP,Incendies,1
+2003,ESP,Température extrême,1
+2003,ETH,Inondation,1
+2003,ETH,Sécheresse,1
+2003,FJI,Orage,1
+2003,FRA,Incendies,1
+2003,FRA,Inondation,2
+2003,FRA,Orage,2
+2003,FRA,Température extrême,1
+2003,FSM,Orage,1
+2003,GBR,Température extrême,1
+2003,GMB,Orage,1
+2003,GNB,Inondation,1
+2003,GRC,Inondation,3
+2003,GTM,Incendies,1
+2003,HKG,Orage,2
+2003,HND,Inondation,2
+2003,HRV,Incendies,1
+2003,HRV,Sécheresse,1
+2003,HRV,Température extrême,1
+2003,HTI,Inondation,3
+2003,HTI,Orage,1
+2003,HTI,Sécheresse,1
+2003,HUN,Orage,1
+2003,HUN,Sécheresse,1
+2003,IDN,Inondation,8
+2003,IDN,Sécheresse,1
+2003,IND,Inondation,6
+2003,IND,Orage,7
+2003,IND,Température extrême,2
+2003,IRN,Inondation,1
+2003,ITA,Inondation,2
+2003,ITA,Température extrême,1
+2003,JPN,Inondation,1
+2003,JPN,Orage,2
+2003,KEN,Inondation,2
+2003,KOR,Orage,1
+2003,LBN,Inondation,1
+2003,LKA,Inondation,1
+2003,LUX,Température extrême,1
+2003,LVA,Température extrême,1
+2003,MAR,Inondation,1
+2003,MDG,Inondation,1
+2003,MDG,Orage,3
+2003,MEX,Incendies,1
+2003,MEX,Inondation,3
+2003,MEX,Orage,2
+2003,MEX,Température extrême,1
+2003,MKD,Inondation,2
+2003,MLI,Inondation,1
+2003,MNG,Inondation,1
+2003,MOZ,Inondation,3
+2003,MOZ,Orage,1
+2003,MOZ,Sécheresse,1
+2003,MRT,Inondation,1
+2003,MWI,Inondation,2
+2003,MYS,Inondation,3
+2003,NAM,Inondation,1
+2003,NCL,Orage,1
+2003,NER,Inondation,1
+2003,NGA,Inondation,1
+2003,NLD,Température extrême,1
+2003,NPL,Inondation,1
+2003,NPL,Température extrême,1
+2003,NZL,Orage,1
+2003,OMN,Orage,1
+2003,PAK,Inondation,3
+2003,PAK,Orage,1
+2003,PAK,Température extrême,1
+2003,PAN,Inondation,1
+2003,PER,Inondation,2
+2003,PER,Température extrême,1
+2003,PHL,Inondation,1
+2003,PHL,Orage,8
+2003,PRI,Inondation,1
+2003,PRI,Orage,1
+2003,PRT,Incendies,1
+2003,PRT,Inondation,1
+2003,PRT,Température extrême,1
+2003,ROU,Inondation,2
+2003,RUS,Incendies,1
+2003,RUS,Inondation,1
+2003,RUS,Orage,1
+2003,RUS,Sécheresse,1
+2003,RWA,Inondation,1
+2003,RWA,Sécheresse,1
+2003,SAU,Inondation,2
+2003,SDN,Inondation,1
+2003,SEN,Inondation,1
+2003,SLB,Orage,2
+2003,SOM,Inondation,2
+2003,SVK,Température extrême,1
+2003,SVN,Température extrême,1
+2003,THA,Inondation,3
+2003,THA,Orage,1
+2003,TJK,Inondation,1
+2003,TLS,Inondation,2
+2003,TUN,Inondation,2
+2003,TUR,Inondation,1
+2003,TWN,Orage,1
+2003,TZA,Inondation,1
+2003,TZA,Sécheresse,1
+2003,UGA,Inondation,2
+2003,UKR,Inondation,1
+2003,URY,Inondation,1
+2003,USA,Incendies,3
+2003,USA,Inondation,4
+2003,USA,Orage,14
+2003,VEN,Inondation,2
+2003,VNM,Inondation,3
+2003,VNM,Orage,1
+2003,YEM,Inondation,1
+2003,ZAF,Inondation,1
+2003,ZAF,Orage,1
+2003,ZMB,Inondation,2
+2003,ZWE,Inondation,1
+2003,ZWE,Orage,1
+2004,AFG,Inondation,2
+2004,AGO,Inondation,3
+2004,AGO,Sécheresse,1
+2004,ALB,Inondation,1
+2004,ALB,Température extrême,1
+2004,ARG,Inondation,2
+2004,ARG,Température extrême,1
+2004,ARM,Inondation,1
+2004,ASM,Orage,1
+2004,AUS,Inondation,3
+2004,AUS,Orage,3
+2004,BDI,Inondation,1
+2004,BDI,Orage,2
+2004,BGD,Inondation,3
+2004,BGD,Orage,4
+2004,BHS,Orage,3
+2004,BIH,Inondation,2
+2004,BOL,Sécheresse,1
+2004,BRA,Inondation,2
+2004,BRA,Orage,1
+2004,BRA,Sécheresse,1
+2004,BRA,Température extrême,1
+2004,BRB,Orage,1
+2004,BTN,Inondation,1
+2004,BWA,Inondation,1
+2004,CAF,Inondation,1
+2004,CAN,Inondation,2
+2004,CAN,Orage,2
+2004,CHL,Inondation,1
+2004,CHL,Température extrême,1
+2004,CHN,Inondation,9
+2004,CHN,Orage,7
+2004,CHN,Température extrême,1
+2004,COL,Inondation,2
+2004,CRI,Inondation,2
+2004,CUB,Orage,2
+2004,CUB,Sécheresse,1
+2004,CYM,Orage,2
+2004,CYP,Orage,1
+2004,DEU,Orage,1
+2004,DJI,Inondation,1
+2004,DOM,Inondation,1
+2004,DOM,Orage,3
+2004,DZA,Inondation,2
+2004,EGY,Orage,1
+2004,ERI,Inondation,1
+2004,ESP,Incendies,1
+2004,ESP,Inondation,1
+2004,ESP,Température extrême,1
+2004,FJI,Inondation,1
+2004,FJI,Orage,1
+2004,FRA,Orage,1
+2004,FSM,Orage,1
+2004,GBR,Inondation,1
+2004,GEO,Inondation,2
+2004,GIN,Incendies,1
+2004,GMB,Orage,1
+2004,GNB,Inondation,1
+2004,GRC,Orage,2
+2004,GRD,Orage,1
+2004,GUM,Orage,2
+2004,HND,Sécheresse,1
+2004,HTI,Inondation,1
+2004,HTI,Orage,2
+2004,HUN,Inondation,1
+2004,IDN,Inondation,1
+2004,IDN,Orage,2
+2004,IND,Inondation,6
+2004,IRL,Orage,1
+2004,IRN,Inondation,2
+2004,IRN,Orage,1
+2004,IRQ,Inondation,1
+2004,ITA,Orage,1
+2004,JAM,Orage,2
+2004,JPN,Inondation,2
+2004,JPN,Orage,8
+2004,JPN,Température extrême,1
+2004,KEN,Inondation,2
+2004,KEN,Sécheresse,1
+2004,KHM,Inondation,1
+2004,KOR,Incendies,1
+2004,KOR,Inondation,2
+2004,KOR,Orage,4
+2004,LCA,Orage,1
+2004,LKA,Inondation,1
+2004,MDG,Orage,2
+2004,MEX,Inondation,2
+2004,MEX,Température extrême,1
+2004,MKD,Inondation,1
+2004,MKD,Température extrême,1
+2004,MMR,Orage,1
+2004,MNP,Orage,1
+2004,MYS,Inondation,3
+2004,MYS,Orage,2
+2004,NAM,Inondation,2
+2004,NGA,Inondation,5
+2004,NIC,Orage,1
+2004,NIU,Orage,1
+2004,NPL,Inondation,1
+2004,NZL,Inondation,2
+2004,PAK,Inondation,2
+2004,PAN,Inondation,3
+2004,PER,Inondation,1
+2004,PER,Sécheresse,1
+2004,PER,Température extrême,1
+2004,PHL,Inondation,3
+2004,PHL,Orage,8
+2004,PNG,Inondation,1
+2004,POL,Inondation,1
+2004,PRI,Inondation,1
+2004,PRI,Orage,2
+2004,PRK,Inondation,2
+2004,PRT,Incendies,1
+2004,PRT,Sécheresse,1
+2004,PRY,Température extrême,1
+2004,ROU,Inondation,2
+2004,ROU,Orage,3
+2004,ROU,Température extrême,1
+2004,RUS,Incendies,1
+2004,RUS,Inondation,3
+2004,RUS,Orage,3
+2004,SAU,Inondation,1
+2004,SEN,Orage,1
+2004,SLE,Inondation,1
+2004,SOM,Inondation,1
+2004,SOM,Sécheresse,1
+2004,SPI,Température extrême,1
+2004,SVK,Inondation,1
+2004,SVK,Orage,1
+2004,SYR,Orage,1
+2004,TCA,Orage,1
+2004,THA,Inondation,3
+2004,THA,Orage,2
+2004,TJK,Inondation,1
+2004,TON,Orage,1
+2004,TTO,Orage,1
+2004,TUR,Inondation,3
+2004,TUR,Orage,3
+2004,TUR,Température extrême,1
+2004,TWN,Orage,5
+2004,TZA,Sécheresse,1
+2004,UGA,Inondation,2
+2004,URY,Température extrême,1
+2004,USA,Incendies,3
+2004,USA,Inondation,4
+2004,USA,Orage,12
+2004,USA,Température extrême,1
+2004,VCT,Orage,1
+2004,VEN,Inondation,1
+2004,VEN,Orage,1
+2004,VIR,Orage,1
+2004,VNM,Inondation,3
+2004,VNM,Orage,2
+2004,VUT,Orage,1
+2004,WSM,Orage,1
+2004,ZAF,Inondation,1
+2004,ZAF,Sécheresse,1
+2004,ZMB,Inondation,1
+2005,AFG,Inondation,8
+2005,AFG,Orage,1
+2005,AFG,Température extrême,1
+2005,AGO,Inondation,1
+2005,ALB,Inondation,1
+2005,ALB,Orage,1
+2005,ARG,Orage,1
+2005,ASM,Orage,1
+2005,AUS,Incendies,1
+2005,AUS,Inondation,1
+2005,AUS,Orage,2
+2005,AUT,Inondation,2
+2005,AUT,Température extrême,1
+2005,BDI,Inondation,1
+2005,BDI,Sécheresse,1
+2005,BEL,Inondation,1
+2005,BEL,Température extrême,2
+2005,BGD,Inondation,3
+2005,BGD,Orage,7
+2005,BGD,Température extrême,2
+2005,BGR,Inondation,5
+2005,BGR,Orage,1
+2005,BGR,Température extrême,1
+2005,BHS,Orage,1
+2005,BIH,Inondation,1
+2005,BIH,Orage,1
+2005,BLR,Température extrême,1
+2005,BLZ,Orage,2
+2005,BOL,Incendies,1
+2005,BRA,Inondation,2
+2005,BRA,Orage,1
+2005,BRA,Sécheresse,1
+2005,CAF,Inondation,1
+2005,CAN,Incendies,2
+2005,CAN,Inondation,2
+2005,CAN,Orage,1
+2005,CHE,Inondation,1
+2005,CHE,Température extrême,1
+2005,CHL,Inondation,2
+2005,CHL,Orage,1
+2005,CHN,Inondation,11
+2005,CHN,Orage,14
+2005,CHN,Sécheresse,2
+2005,CHN,Température extrême,1
+2005,CMR,Inondation,1
+2005,CMR,Sécheresse,1
+2005,COD,Orage,1
+2005,COG,Inondation,1
+2005,COK,Orage,1
+2005,COL,Inondation,3
+2005,COL,Orage,1
+2005,CRI,Inondation,2
+2005,CRI,Orage,1
+2005,CUB,Orage,2
+2005,CZE,Inondation,1
+2005,CZE,Orage,1
+2005,CZE,Température extrême,1
+2005,DEU,Inondation,2
+2005,DEU,Orage,1
+2005,DEU,Température extrême,2
+2005,DJI,Sécheresse,1
+2005,DNK,Orage,1
+2005,DOM,Incendies,1
+2005,DOM,Inondation,1
+2005,DOM,Orage,1
+2005,DZA,Inondation,2
+2005,DZA,Orage,1
+2005,ESP,Incendies,1
+2005,ESP,Température extrême,1
+2005,EST,Orage,1
+2005,EST,Température extrême,1
+2005,ETH,Inondation,4
+2005,ETH,Sécheresse,1
+2005,FIN,Inondation,1
+2005,FJI,Inondation,1
+2005,FRA,Incendies,1
+2005,FRA,Inondation,2
+2005,FRA,Température extrême,2
+2005,GBR,Orage,2
+2005,GBR,Température extrême,2
+2005,GEO,Inondation,1
+2005,GTM,Inondation,1
+2005,GTM,Orage,1
+2005,GUY,Inondation,1
+2005,HKG,Inondation,1
+2005,HND,Inondation,1
+2005,HND,Orage,4
+2005,HRV,Inondation,1
+2005,HRV,Orage,1
+2005,HRV,Température extrême,1
+2005,HTI,Inondation,3
+2005,HTI,Orage,5
+2005,HUN,Inondation,2
+2005,HUN,Orage,1
+2005,HUN,Température extrême,1
+2005,IDN,Incendies,1
+2005,IDN,Inondation,3
+2005,IND,Inondation,17
+2005,IND,Orage,4
+2005,IND,Température extrême,2
+2005,IRL,Orage,1
+2005,IRN,Inondation,4
+2005,IRN,Orage,1
+2005,ITA,Température extrême,1
+2005,JAM,Orage,3
+2005,JPN,Inondation,1
+2005,JPN,Orage,3
+2005,KAZ,Inondation,1
+2005,KEN,Inondation,3
+2005,KEN,Sécheresse,1
+2005,KGZ,Inondation,1
+2005,KHM,Inondation,1
+2005,KHM,Sécheresse,1
+2005,KOR,Incendies,1
+2005,KOR,Inondation,1
+2005,KOR,Orage,3
+2005,LKA,Inondation,1
+2005,LTU,Inondation,1
+2005,LTU,Orage,1
+2005,LVA,Orage,2
+2005,LVA,Température extrême,1
+2005,MAR,Orage,1
+2005,MDA,Inondation,1
+2005,MDA,Température extrême,1
+2005,MDG,Inondation,2
+2005,MDG,Orage,1
+2005,MDG,Sécheresse,1
+2005,MEX,Inondation,3
+2005,MEX,Orage,4
+2005,MKD,Inondation,1
+2005,MKD,Orage,1
+2005,MLI,Inondation,2
+2005,MLI,Sécheresse,1
+2005,MOZ,Inondation,2
+2005,MOZ,Sécheresse,1
+2005,MRT,Inondation,1
+2005,MWI,Inondation,1
+2005,MWI,Orage,1
+2005,MWI,Sécheresse,1
+2005,MYS,Incendies,1
+2005,MYS,Inondation,2
+2005,NER,Sécheresse,1
+2005,NGA,Inondation,2
+2005,NIC,Orage,2
+2005,NLD,Orage,1
+2005,NLD,Température extrême,2
+2005,NOR,Orage,1
+2005,NPL,Inondation,2
+2005,NZL,Inondation,1
+2005,NZL,Orage,1
+2005,PAK,Inondation,5
+2005,PAK,Orage,1
+2005,PAK,Température extrême,1
+2005,PAN,Inondation,1
+2005,PHL,Inondation,2
+2005,PHL,Orage,2
+2005,PNG,Inondation,1
+2005,POL,Inondation,1
+2005,POL,Orage,2
+2005,POL,Température extrême,1
+2005,PRK,Inondation,1
+2005,PRT,Incendies,1
+2005,PRT,Température extrême,1
+2005,PRY,Sécheresse,1
+2005,ROU,Inondation,6
+2005,ROU,Orage,1
+2005,ROU,Température extrême,2
+2005,RUS,Inondation,5
+2005,RUS,Orage,2
+2005,RUS,Température extrême,1
+2005,SAU,Inondation,2
+2005,SCG,Inondation,1
+2005,SCG,Orage,1
+2005,SCG,Température extrême,1
+2005,SDN,Inondation,2
+2005,SEN,Inondation,1
+2005,SLE,Inondation,1
+2005,SLV,Inondation,2
+2005,SLV,Orage,2
+2005,SOM,Inondation,2
+2005,SOM,Sécheresse,1
+2005,SPI,Orage,1
+2005,SVK,Inondation,1
+2005,SVK,Température extrême,1
+2005,SVN,Inondation,1
+2005,SWE,Orage,1
+2005,SWE,Température extrême,1
+2005,SWZ,Orage,1
+2005,THA,Incendies,1
+2005,THA,Inondation,2
+2005,THA,Orage,2
+2005,THA,Sécheresse,1
+2005,TJK,Inondation,2
+2005,TKL,Orage,1
+2005,TTO,Orage,1
+2005,TUR,Inondation,2
+2005,TUR,Orage,1
+2005,TUR,Température extrême,1
+2005,TWN,Inondation,1
+2005,TWN,Orage,4
+2005,TZA,Inondation,1
+2005,UGA,Sécheresse,1
+2005,UKR,Inondation,1
+2005,UKR,Température extrême,1
+2005,URY,Orage,1
+2005,USA,Incendies,1
+2005,USA,Inondation,6
+2005,USA,Orage,8
+2005,USA,Température extrême,1
+2005,UZB,Inondation,1
+2005,VCT,Orage,1
+2005,VEN,Inondation,4
+2005,VNM,Inondation,5
+2005,VNM,Orage,4
+2005,VNM,Sécheresse,1
+2005,WSM,Orage,1
+2005,YEM,Inondation,2
+2005,ZMB,Inondation,1
+2005,ZMB,Sécheresse,1
+2006,AFG,Inondation,7
+2006,AFG,Orage,2
+2006,AFG,Sécheresse,1
+2006,AGO,Inondation,1
+2006,ARG,Inondation,1
+2006,AUS,Incendies,3
+2006,AUS,Inondation,1
+2006,AUS,Orage,3
+2006,AUS,Sécheresse,1
+2006,AUT,Inondation,1
+2006,BDI,Inondation,6
+2006,BDI,Orage,1
+2006,BEL,Température extrême,1
+2006,BFA,Inondation,2
+2006,BGD,Inondation,2
+2006,BGD,Orage,5
+2006,BGR,Inondation,2
+2006,BOL,Inondation,2
+2006,BRA,Inondation,2
+2006,CAN,Inondation,5
+2006,CHE,Inondation,1
+2006,CHE,Orage,1
+2006,CHL,Inondation,1
+2006,CHN,Inondation,20
+2006,CHN,Orage,8
+2006,CHN,Sécheresse,1
+2006,COD,Inondation,3
+2006,COD,Orage,1
+2006,COG,Inondation,1
+2006,COL,Inondation,1
+2006,CUB,Inondation,1
+2006,CUB,Orage,1
+2006,CZE,Inondation,2
+2006,DEU,Inondation,1
+2006,DEU,Orage,3
+2006,DEU,Température extrême,1
+2006,DZA,Inondation,1
+2006,ECU,Inondation,1
+2006,ESP,Incendies,1
+2006,ESP,Inondation,1
+2006,ESP,Température extrême,1
+2006,ETH,Inondation,7
+2006,FJI,Inondation,1
+2006,FJI,Orage,1
+2006,FRA,Orage,2
+2006,FRA,Température extrême,1
+2006,GEO,Inondation,1
+2006,GIN,Inondation,1
+2006,GNB,Sécheresse,1
+2006,GRC,Inondation,2
+2006,GRC,Orage,1
+2006,GTM,Température extrême,1
+2006,GUY,Inondation,1
+2006,HND,Inondation,1
+2006,HRV,Inondation,1
+2006,HTI,Inondation,2
+2006,HTI,Orage,1
+2006,HUN,Inondation,1
+2006,HUN,Orage,1
+2006,IDN,Incendies,1
+2006,IDN,Inondation,8
+2006,IND,Inondation,17
+2006,IND,Orage,2
+2006,IND,Température extrême,1
+2006,IRN,Inondation,1
+2006,IRQ,Inondation,2
+2006,ITA,Orage,1
+2006,JAM,Inondation,1
+2006,JPN,Inondation,2
+2006,JPN,Orage,3
+2006,KEN,Inondation,4
+2006,KGZ,Orage,1
+2006,KHM,Inondation,2
+2006,KOR,Inondation,1
+2006,LKA,Inondation,1
+2006,LTU,Sécheresse,1
+2006,MAR,Inondation,3
+2006,MDG,Orage,2
+2006,MEX,Inondation,1
+2006,MEX,Orage,3
+2006,MEX,Température extrême,1
+2006,MKD,Inondation,1
+2006,MLI,Inondation,1
+2006,MLI,Sécheresse,1
+2006,MMR,Inondation,1
+2006,MMR,Orage,1
+2006,MRT,Inondation,2
+2006,MWI,Inondation,2
+2006,MYS,Inondation,4
+2006,NAM,Inondation,2
+2006,NER,Inondation,1
+2006,NGA,Inondation,3
+2006,NLD,Température extrême,1
+2006,NPL,Inondation,1
+2006,NPL,Sécheresse,1
+2006,NZL,Inondation,1
+2006,PAK,Inondation,7
+2006,PAK,Température extrême,1
+2006,PAN,Incendies,1
+2006,PAN,Inondation,2
+2006,PER,Inondation,1
+2006,PER,Sécheresse,1
+2006,PHL,Inondation,6
+2006,PHL,Orage,10
+2006,PNG,Inondation,2
+2006,POL,Inondation,1
+2006,PRK,Inondation,2
+2006,PRT,Inondation,1
+2006,PRT,Température extrême,1
+2006,ROU,Inondation,6
+2006,ROU,Température extrême,1
+2006,RUS,Inondation,3
+2006,SCG,Inondation,2
+2006,SDN,Inondation,3
+2006,SLV,Température extrême,1
+2006,SOM,Inondation,5
+2006,SUR,Inondation,1
+2006,SVK,Inondation,2
+2006,SWZ,Orage,1
+2006,SYR,Inondation,1
+2006,TCD,Inondation,1
+2006,TGO,Inondation,1
+2006,THA,Inondation,3
+2006,TLS,Orage,1
+2006,TUR,Inondation,2
+2006,TWN,Inondation,1
+2006,TWN,Orage,2
+2006,TZA,Inondation,2
+2006,TZA,Sécheresse,1
+2006,UGA,Inondation,2
+2006,UKR,Inondation,2
+2006,USA,Incendies,3
+2006,USA,Inondation,11
+2006,USA,Orage,12
+2006,USA,Température extrême,2
+2006,VEN,Inondation,1
+2006,VNM,Inondation,5
+2006,VNM,Orage,6
+2006,YEM,Inondation,2
+2006,ZAF,Inondation,2
+2007,AFG,Inondation,7
+2007,AGO,Inondation,2
+2007,ALB,Incendies,1
+2007,ALB,Température extrême,1
+2007,ARG,Inondation,2
+2007,ARG,Température extrême,1
+2007,AUS,Inondation,1
+2007,AUS,Orage,1
+2007,AUT,Orage,1
+2007,AUT,Température extrême,1
+2007,BDI,Inondation,2
+2007,BEL,Orage,1
+2007,BEN,Inondation,1
+2007,BFA,Inondation,1
+2007,BGD,Inondation,2
+2007,BGD,Orage,2
+2007,BGD,Température extrême,1
+2007,BGR,Incendies,2
+2007,BGR,Inondation,3
+2007,BGR,Température extrême,1
+2007,BHS,Orage,1
+2007,BIH,Température extrême,1
+2007,BLR,Orage,1
+2007,BLZ,Orage,1
+2007,BOL,Inondation,2
+2007,BOL,Température extrême,1
+2007,BRA,Inondation,3
+2007,BRA,Sécheresse,1
+2007,CAF,Inondation,1
+2007,CAN,Inondation,1
+2007,CAN,Orage,2
+2007,CHE,Inondation,1
+2007,CHE,Orage,2
+2007,CHL,Température extrême,1
+2007,CHN,Inondation,11
+2007,CHN,Orage,6
+2007,CIV,Inondation,1
+2007,CMR,Inondation,1
+2007,COD,Inondation,1
+2007,COG,Inondation,1
+2007,COL,Inondation,4
+2007,CRI,Inondation,2
+2007,CUB,Inondation,1
+2007,CUB,Orage,2
+2007,CYP,Température extrême,1
+2007,CZE,Orage,1
+2007,DEU,Inondation,1
+2007,DEU,Orage,2
+2007,DJI,Sécheresse,1
+2007,DMA,Orage,1
+2007,DNK,Orage,1
+2007,DOM,Inondation,2
+2007,DOM,Orage,3
+2007,DZA,Incendies,1
+2007,DZA,Inondation,6
+2007,ESP,Inondation,3
+2007,ESP,Orage,1
+2007,ETH,Inondation,2
+2007,FJI,Inondation,2
+2007,FJI,Orage,2
+2007,FRA,Orage,3
+2007,GBR,Inondation,3
+2007,GBR,Orage,1
+2007,GHA,Inondation,1
+2007,GIN,Inondation,1
+2007,GLP,Orage,1
+2007,GMB,Inondation,1
+2007,GRC,Incendies,2
+2007,GRC,Inondation,1
+2007,GRC,Température extrême,1
+2007,GTM,Inondation,2
+2007,GTM,Orage,1
+2007,HND,Inondation,2
+2007,HND,Orage,1
+2007,HRV,Incendies,2
+2007,HTI,Inondation,4
+2007,HTI,Orage,3
+2007,HUN,Température extrême,1
+2007,IDN,Inondation,8
+2007,IND,Inondation,16
+2007,IND,Orage,1
+2007,IND,Température extrême,3
+2007,IRN,Inondation,1
+2007,IRN,Orage,1
+2007,ITA,Incendies,1
+2007,ITA,Température extrême,1
+2007,JAM,Orage,2
+2007,JPN,Inondation,1
+2007,JPN,Orage,3
+2007,JPN,Température extrême,1
+2007,KEN,Inondation,3
+2007,KGZ,Inondation,1
+2007,KHM,Inondation,1
+2007,KOR,Inondation,1
+2007,KOR,Orage,1
+2007,LBN,Incendies,1
+2007,LBR,Inondation,1
+2007,LBR,Orage,1
+2007,LCA,Orage,1
+2007,LKA,Inondation,3
+2007,LSO,Sécheresse,1
+2007,MDA,Sécheresse,1
+2007,MDG,Inondation,1
+2007,MDG,Orage,3
+2007,MDV,Inondation,1
+2007,MEX,Inondation,2
+2007,MEX,Orage,4
+2007,MKD,Incendies,1
+2007,MKD,Température extrême,1
+2007,MLI,Inondation,2
+2007,MMR,Inondation,4
+2007,MNE,Inondation,1
+2007,MOZ,Inondation,4
+2007,MOZ,Orage,1
+2007,MOZ,Sécheresse,1
+2007,MRT,Inondation,2
+2007,MTQ,Orage,1
+2007,MUS,Orage,1
+2007,MWI,Inondation,4
+2007,MWI,Sécheresse,1
+2007,MYS,Inondation,2
+2007,NAM,Inondation,1
+2007,NER,Inondation,1
+2007,NGA,Inondation,3
+2007,NIC,Inondation,1
+2007,NIC,Orage,1
+2007,NLD,Orage,1
+2007,NPL,Inondation,1
+2007,NZL,Orage,1
+2007,OMN,Orage,1
+2007,PAK,Inondation,6
+2007,PAK,Orage,1
+2007,PAN,Inondation,1
+2007,PER,Inondation,1
+2007,PER,Température extrême,1
+2007,PHL,Inondation,5
+2007,PHL,Orage,8
+2007,PHL,Sécheresse,1
+2007,PNG,Orage,1
+2007,POL,Orage,2
+2007,PRI,Orage,1
+2007,PRK,Inondation,1
+2007,PRK,Orage,1
+2007,PRY,Incendies,1
+2007,REU,Orage,1
+2007,ROU,Inondation,4
+2007,ROU,Température extrême,2
+2007,RUS,Inondation,1
+2007,RUS,Orage,1
+2007,RWA,Inondation,2
+2007,SDN,Inondation,1
+2007,SEN,Inondation,1
+2007,SLE,Inondation,1
+2007,SLV,Inondation,1
+2007,SLV,Orage,1
+2007,SOM,Inondation,2
+2007,SPI,Incendies,1
+2007,SRB,Inondation,1
+2007,SRB,Température extrême,1
+2007,SVK,Température extrême,1
+2007,SVN,Orage,2
+2007,SWZ,Incendies,1
+2007,SWZ,Sécheresse,1
+2007,TCD,Inondation,2
+2007,TCD,Orage,1
+2007,TGO,Inondation,1
+2007,THA,Inondation,5
+2007,TJK,Inondation,2
+2007,TLS,Inondation,2
+2007,TLS,Sécheresse,1
+2007,TUN,Inondation,2
+2007,TUR,Inondation,3
+2007,TUR,Température extrême,1
+2007,TWN,Orage,2
+2007,UGA,Inondation,2
+2007,UKR,Orage,2
+2007,URY,Inondation,2
+2007,URY,Température extrême,1
+2007,USA,Incendies,3
+2007,USA,Inondation,6
+2007,USA,Orage,13
+2007,USA,Sécheresse,1
+2007,VNM,Inondation,5
+2007,VNM,Orage,1
+2007,YEM,Inondation,3
+2007,ZAF,Incendies,1
+2007,ZAF,Inondation,1
+2007,ZAF,Température extrême,1
+2007,ZMB,Inondation,3
+2007,ZWE,Inondation,2
+2007,ZWE,Orage,1
+2007,ZWE,Sécheresse,1
+2008,AFG,Inondation,1
+2008,AFG,Sécheresse,1
+2008,AFG,Température extrême,1
+2008,AGO,Inondation,1
+2008,ARG,Inondation,1
+2008,ATG,Orage,1
+2008,AUS,Inondation,4
+2008,AUS,Orage,1
+2008,AUT,Orage,1
+2008,BDI,Inondation,2
+2008,BDI,Sécheresse,1
+2008,BEL,Orage,1
+2008,BEL,Température extrême,1
+2008,BEN,Inondation,1
+2008,BFA,Inondation,2
+2008,BGD,Inondation,2
+2008,BGD,Orage,2
+2008,BGR,Température extrême,1
+2008,BHS,Orage,2
+2008,BLZ,Inondation,1
+2008,BLZ,Orage,1
+2008,BOL,Orage,1
+2008,BOL,Sécheresse,1
+2008,BRA,Inondation,4
+2008,BRA,Orage,1
+2008,CAF,Inondation,1
+2008,CAN,Inondation,2
+2008,CHL,Inondation,2
+2008,CHN,Inondation,7
+2008,CHN,Orage,9
+2008,CHN,Sécheresse,1
+2008,CHN,Température extrême,2
+2008,CIV,Inondation,1
+2008,CMR,Inondation,1
+2008,COD,Inondation,1
+2008,COD,Orage,1
+2008,COL,Inondation,2
+2008,CRI,Inondation,3
+2008,CRI,Orage,1
+2008,CUB,Inondation,1
+2008,CUB,Orage,4
+2008,CYM,Orage,2
+2008,CZE,Orage,1
+2008,DEU,Orage,2
+2008,DEU,Température extrême,1
+2008,DJI,Sécheresse,1
+2008,DOM,Orage,3
+2008,DZA,Inondation,1
+2008,ECU,Inondation,1
+2008,ERI,Sécheresse,1
+2008,ETH,Inondation,3
+2008,ETH,Sécheresse,1
+2008,FJI,Orage,1
+2008,FRA,Orage,3
+2008,FRA,Température extrême,1
+2008,FSM,Inondation,1
+2008,GBR,Inondation,2
+2008,GBR,Orage,1
+2008,GHA,Inondation,1
+2008,GIN,Inondation,1
+2008,GMB,Inondation,1
+2008,GMB,Orage,1
+2008,GNB,Inondation,1
+2008,GTM,Inondation,2
+2008,GTM,Orage,1
+2008,GUY,Inondation,1
+2008,HKG,Orage,3
+2008,HND,Inondation,1
+2008,HND,Orage,1
+2008,HTI,Orage,4
+2008,HUN,Température extrême,1
+2008,IDN,Inondation,12
+2008,IND,Inondation,8
+2008,IND,Orage,1
+2008,IND,Température extrême,1
+2008,IRN,Inondation,2
+2008,IRN,Orage,1
+2008,IRQ,Inondation,1
+2008,ITA,Inondation,3
+2008,JAM,Orage,2
+2008,JPN,Inondation,1
+2008,JPN,Température extrême,1
+2008,KAZ,Inondation,1
+2008,KEN,Inondation,6
+2008,KEN,Sécheresse,1
+2008,KIR,Inondation,1
+2008,KNA,Orage,1
+2008,KOR,Inondation,1
+2008,LAO,Inondation,1
+2008,LBR,Inondation,1
+2008,LKA,Inondation,3
+2008,LKA,Orage,1
+2008,LSO,Orage,1
+2008,MAR,Inondation,2
+2008,MDA,Inondation,1
+2008,MDG,Orage,3
+2008,MDG,Sécheresse,1
+2008,MEX,Inondation,1
+2008,MEX,Orage,1
+2008,MHL,Inondation,1
+2008,MLI,Inondation,1
+2008,MMR,Orage,1
+2008,MNG,Orage,1
+2008,MOZ,Incendies,1
+2008,MOZ,Inondation,1
+2008,MOZ,Orage,1
+2008,MOZ,Sécheresse,1
+2008,MWI,Inondation,1
+2008,MYS,Inondation,2
+2008,NAM,Inondation,1
+2008,NER,Inondation,1
+2008,NIC,Inondation,2
+2008,NIC,Orage,1
+2008,NLD,Orage,1
+2008,NOR,Orage,1
+2008,NPL,Inondation,2
+2008,PAK,Inondation,3
+2008,PAN,Inondation,2
+2008,PER,Inondation,1
+2008,PHL,Inondation,8
+2008,PHL,Orage,11
+2008,PNG,Inondation,2
+2008,POL,Orage,1
+2008,POL,Température extrême,1
+2008,PRT,Inondation,1
+2008,PRT,Température extrême,1
+2008,PRY,Orage,1
+2008,PRY,Sécheresse,1
+2008,PSE,Inondation,1
+2008,ROU,Inondation,1
+2008,ROU,Orage,1
+2008,ROU,Température extrême,1
+2008,RWA,Inondation,1
+2008,SEN,Inondation,1
+2008,SLV,Inondation,2
+2008,SOM,Inondation,1
+2008,SOM,Sécheresse,1
+2008,SSD,Inondation,3
+2008,SUR,Inondation,1
+2008,SWZ,Inondation,1
+2008,SYR,Sécheresse,1
+2008,TCA,Orage,3
+2008,TCD,Inondation,2
+2008,TGO,Inondation,1
+2008,THA,Inondation,3
+2008,THA,Orage,2
+2008,THA,Sécheresse,1
+2008,TJK,Sécheresse,1
+2008,TJK,Température extrême,1
+2008,TUR,Incendies,1
+2008,TWN,Orage,5
+2008,TZA,Inondation,2
+2008,TZA,Orage,2
+2008,UGA,Inondation,1
+2008,UGA,Sécheresse,1
+2008,UKR,Inondation,1
+2008,UKR,Température extrême,1
+2008,USA,Incendies,2
+2008,USA,Inondation,4
+2008,USA,Orage,14
+2008,USA,Température extrême,1
+2008,VEN,Inondation,1
+2008,VNM,Inondation,5
+2008,VNM,Orage,5
+2008,YEM,Inondation,1
+2008,ZAF,Incendies,1
+2008,ZAF,Inondation,1
+2008,ZAF,Orage,1
+2008,ZMB,Inondation,1
+2009,AFG,Inondation,3
+2009,AGO,Inondation,3
+2009,ALB,Inondation,1
+2009,ARG,Inondation,2
+2009,ARG,Orage,1
+2009,ARG,Sécheresse,1
+2009,AUS,Incendies,1
+2009,AUS,Inondation,2
+2009,AUS,Orage,2
+2009,AUS,Température extrême,1
+2009,AUT,Inondation,2
+2009,AUT,Orage,1
+2009,AUT,Température extrême,1
+2009,AZE,Inondation,1
+2009,BDI,Inondation,1
+2009,BDI,Sécheresse,1
+2009,BEN,Inondation,2
+2009,BEN,Orage,1
+2009,BFA,Inondation,2
+2009,BGD,Inondation,2
+2009,BGD,Orage,2
+2009,BGD,Sécheresse,1
+2009,BGD,Température extrême,1
+2009,BIH,Inondation,2
+2009,BIH,Température extrême,1
+2009,BOL,Inondation,1
+2009,BRA,Inondation,7
+2009,BRA,Orage,1
+2009,BTN,Orage,1
+2009,BWA,Inondation,2
+2009,BWA,Orage,1
+2009,CAF,Inondation,1
+2009,CAF,Orage,2
+2009,CAN,Inondation,1
+2009,CAN,Orage,2
+2009,CHE,Orage,1
+2009,CHN,Inondation,7
+2009,CHN,Orage,10
+2009,CHN,Sécheresse,2
+2009,COD,Incendies,1
+2009,COD,Inondation,1
+2009,COL,Inondation,1
+2009,COM,Inondation,1
+2009,CPV,Inondation,1
+2009,CZE,Inondation,1
+2009,CZE,Orage,1
+2009,DEU,Inondation,1
+2009,DEU,Orage,1
+2009,DEU,Température extrême,1
+2009,DOM,Inondation,2
+2009,DZA,Inondation,2
+2009,ECU,Inondation,1
+2009,ECU,Sécheresse,1
+2009,ESP,Incendies,1
+2009,ESP,Orage,1
+2009,ETH,Sécheresse,1
+2009,FJI,Inondation,1
+2009,FJI,Orage,1
+2009,FRA,Incendies,1
+2009,FRA,Orage,1
+2009,FRA,Température extrême,2
+2009,GAB,Orage,1
+2009,GBR,Inondation,1
+2009,GBR,Orage,1
+2009,GBR,Température extrême,1
+2009,GHA,Inondation,2
+2009,GIN,Inondation,1
+2009,GMB,Inondation,1
+2009,GMB,Orage,1
+2009,GRC,Incendies,2
+2009,GTM,Inondation,1
+2009,GTM,Sécheresse,1
+2009,HKG,Orage,1
+2009,HND,Sécheresse,1
+2009,HTI,Inondation,3
+2009,IDN,Inondation,5
+2009,IND,Inondation,6
+2009,IND,Orage,6
+2009,IND,Sécheresse,1
+2009,IND,Température extrême,2
+2009,IRL,Inondation,1
+2009,IRQ,Inondation,1
+2009,ITA,Incendies,1
+2009,ITA,Inondation,1
+2009,ITA,Orage,1
+2009,ITA,Température extrême,1
+2009,JPN,Orage,2
+2009,JPN,Température extrême,1
+2009,KEN,Inondation,2
+2009,KGZ,Sécheresse,1
+2009,KHM,Orage,2
+2009,LAO,Inondation,1
+2009,LAO,Orage,1
+2009,LBR,Inondation,1
+2009,LKA,Inondation,3
+2009,MAR,Inondation,2
+2009,MDG,Orage,3
+2009,MEX,Inondation,5
+2009,MEX,Orage,2
+2009,MLI,Inondation,1
+2009,MNE,Inondation,1
+2009,MNG,Inondation,1
+2009,MNG,Température extrême,1
+2009,MOZ,Inondation,1
+2009,MOZ,Orage,1
+2009,MRT,Inondation,1
+2009,MYS,Inondation,2
+2009,NAM,Inondation,1
+2009,NER,Inondation,1
+2009,NER,Sécheresse,1
+2009,NGA,Inondation,2
+2009,NIC,Inondation,2
+2009,NIC,Orage,1
+2009,NPL,Inondation,2
+2009,NPL,Sécheresse,1
+2009,NPL,Température extrême,1
+2009,PAK,Inondation,3
+2009,PAN,Inondation,1
+2009,PER,Inondation,1
+2009,PER,Température extrême,1
+2009,PHL,Inondation,8
+2009,PHL,Orage,14
+2009,POL,Inondation,1
+2009,POL,Orage,1
+2009,POL,Température extrême,1
+2009,PRY,Inondation,1
+2009,PRY,Orage,1
+2009,PRY,Sécheresse,1
+2009,ROU,Inondation,2
+2009,ROU,Température extrême,1
+2009,SAU,Inondation,1
+2009,SDN,Inondation,1
+2009,SEN,Inondation,1
+2009,SLB,Inondation,1
+2009,SLE,Inondation,1
+2009,SLV,Orage,1
+2009,SLV,Sécheresse,1
+2009,SOM,Inondation,1
+2009,SRB,Inondation,1
+2009,SRB,Température extrême,1
+2009,SSD,Sécheresse,1
+2009,TCD,Inondation,2
+2009,TCD,Sécheresse,1
+2009,TGO,Inondation,1
+2009,THA,Inondation,1
+2009,TJK,Inondation,1
+2009,TUN,Inondation,1
+2009,TUR,Inondation,2
+2009,TWN,Orage,1
+2009,TZA,Inondation,2
+2009,TZA,Orage,1
+2009,UKR,Température extrême,1
+2009,URY,Inondation,1
+2009,USA,Incendies,2
+2009,USA,Inondation,4
+2009,USA,Orage,10
+2009,USA,Température extrême,1
+2009,VEN,Sécheresse,1
+2009,VNM,Inondation,2
+2009,VNM,Orage,3
+2009,VUT,Inondation,1
+2009,ZAF,Inondation,2
+2009,ZAF,Orage,2
+2009,ZMB,Inondation,1
+2010,AFG,Inondation,2
+2010,AGO,Inondation,3
+2010,ALB,Inondation,1
+2010,ARG,Température extrême,1
+2010,ATG,Orage,1
+2010,AUS,Inondation,5
+2010,AUS,Orage,3
+2010,AZE,Inondation,1
+2010,BDI,Inondation,2
+2010,BDI,Orage,1
+2010,BDI,Sécheresse,1
+2010,BEL,Inondation,1
+2010,BEL,Orage,2
+2010,BEN,Inondation,1
+2010,BFA,Inondation,1
+2010,BGD,Inondation,2
+2010,BGD,Orage,3
+2010,BGR,Inondation,1
+2010,BGR,Température extrême,1
+2010,BIH,Inondation,2
+2010,BIH,Température extrême,1
+2010,BLZ,Orage,1
+2010,BOL,Incendies,1
+2010,BOL,Inondation,1
+2010,BOL,Sécheresse,1
+2010,BOL,Température extrême,1
+2010,BRA,Inondation,3
+2010,BRA,Sécheresse,1
+2010,BRA,Température extrême,1
+2010,BRB,Orage,1
+2010,BRB,Sécheresse,1
+2010,CAF,Inondation,1
+2010,CAN,Orage,1
+2010,CHE,Orage,1
+2010,CHE,Température extrême,1
+2010,CHL,Température extrême,1
+2010,CHN,Incendies,1
+2010,CHN,Inondation,5
+2010,CHN,Orage,6
+2010,CHN,Sécheresse,1
+2010,CIV,Inondation,2
+2010,CMR,Inondation,1
+2010,COD,Incendies,1
+2010,COD,Inondation,2
+2010,COK,Orage,1
+2010,COL,Incendies,1
+2010,COL,Inondation,3
+2010,CRI,Inondation,2
+2010,CZE,Inondation,3
+2010,CZE,Température extrême,1
+2010,DEU,Inondation,1
+2010,DEU,Orage,2
+2010,DEU,Température extrême,1
+2010,DJI,Sécheresse,1
+2010,DNK,Orage,1
+2010,DOM,Inondation,2
+2010,DOM,Orage,1
+2010,ECU,Inondation,2
+2010,EGY,Inondation,2
+2010,EGY,Orage,1
+2010,ESP,Inondation,1
+2010,ESP,Orage,1
+2010,ETH,Inondation,2
+2010,ETH,Sécheresse,1
+2010,FJI,Orage,1
+2010,FRA,Inondation,1
+2010,FRA,Orage,2
+2010,FRA,Température extrême,1
+2010,GAB,Orage,2
+2010,GBR,Orage,1
+2010,GBR,Température extrême,1
+2010,GHA,Inondation,2
+2010,GIN,Inondation,2
+2010,GMB,Inondation,2
+2010,GNB,Inondation,1
+2010,GRC,Inondation,1
+2010,GRD,Sécheresse,1
+2010,GTM,Inondation,1
+2010,GTM,Orage,3
+2010,GUY,Sécheresse,1
+2010,HKG,Orage,1
+2010,HND,Inondation,2
+2010,HND,Orage,2
+2010,HRV,Inondation,2
+2010,HRV,Température extrême,1
+2010,HTI,Inondation,3
+2010,HTI,Orage,2
+2010,HUN,Inondation,1
+2010,IDN,Inondation,7
+2010,IND,Inondation,8
+2010,IND,Orage,7
+2010,IND,Température extrême,1
+2010,ISR,Incendies,1
+2010,ISR,Inondation,1
+2010,ITA,Inondation,1
+2010,ITA,Orage,1
+2010,ITA,Température extrême,1
+2010,JAM,Orage,1
+2010,JPN,Inondation,1
+2010,JPN,Température extrême,1
+2010,KAZ,Inondation,2
+2010,KEN,Inondation,2
+2010,KEN,Sécheresse,1
+2010,KHM,Inondation,1
+2010,KOR,Orage,1
+2010,LBR,Inondation,1
+2010,LCA,Inondation,1
+2010,LCA,Orage,1
+2010,LCA,Sécheresse,1
+2010,LKA,Inondation,2
+2010,LTU,Inondation,1
+2010,LTU,Température extrême,1
+2010,LUX,Orage,1
+2010,MAR,Inondation,2
+2010,MDA,Inondation,1
+2010,MDG,Orage,1
+2010,MEX,Inondation,2
+2010,MEX,Orage,4
+2010,MLI,Inondation,2
+2010,MLI,Sécheresse,1
+2010,MMR,Orage,1
+2010,MNE,Inondation,2
+2010,MOZ,Inondation,1
+2010,MOZ,Sécheresse,1
+2010,MRT,Inondation,1
+2010,MRT,Sécheresse,1
+2010,MWI,Inondation,1
+2010,NAM,Inondation,1
+2010,NER,Inondation,2
+2010,NGA,Inondation,1
+2010,NIC,Inondation,2
+2010,NIC,Orage,2
+2010,NLD,Orage,1
+2010,NPL,Inondation,2
+2010,OMN,Orage,1
+2010,PAK,Inondation,4
+2010,PAK,Orage,1
+2010,PAN,Inondation,4
+2010,PER,Inondation,1
+2010,PER,Température extrême,1
+2010,PHL,Inondation,9
+2010,PHL,Orage,3
+2010,POL,Inondation,2
+2010,POL,Température extrême,1
+2010,PRK,Inondation,2
+2010,PRK,Orage,1
+2010,PRT,Inondation,1
+2010,PRT,Orage,1
+2010,PRT,Température extrême,1
+2010,PRY,Température extrême,1
+2010,PSE,Inondation,1
+2010,PYF,Orage,1
+2010,ROU,Inondation,1
+2010,ROU,Température extrême,1
+2010,RUS,Incendies,2
+2010,RUS,Inondation,2
+2010,RUS,Sécheresse,1
+2010,RUS,Température extrême,3
+2010,SAU,Inondation,2
+2010,SDN,Inondation,2
+2010,SEN,Inondation,2
+2010,SLB,Inondation,1
+2010,SLB,Orage,1
+2010,SLE,Inondation,1
+2010,SLV,Orage,3
+2010,SOM,Inondation,2
+2010,SOM,Sécheresse,1
+2010,SRB,Inondation,3
+2010,SRB,Température extrême,2
+2010,SSD,Inondation,2
+2010,SVK,Inondation,2
+2010,SVK,Température extrême,1
+2010,TCD,Inondation,1
+2010,TGO,Inondation,2
+2010,THA,Inondation,1
+2010,THA,Sécheresse,1
+2010,TJK,Inondation,2
+2010,TTO,Sécheresse,1
+2010,TWN,Orage,2
+2010,UGA,Sécheresse,1
+2010,UKR,Inondation,1
+2010,URY,Température extrême,1
+2010,USA,Inondation,3
+2010,USA,Orage,12
+2010,VCT,Orage,1
+2010,VCT,Sécheresse,1
+2010,VEN,Inondation,1
+2010,VEN,Orage,1
+2010,VNM,Inondation,4
+2010,VNM,Orage,3
+2010,YEM,Inondation,2
+2010,ZAF,Orage,1
+2010,ZMB,Inondation,1
+2010,ZWE,Inondation,1
+2010,ZWE,Sécheresse,1
+2011,AFG,Inondation,2
+2011,AFG,Orage,1
+2011,AFG,Sécheresse,1
+2011,AGO,Inondation,4
+2011,AUS,Incendies,1
+2011,AUS,Inondation,1
+2011,AUS,Orage,1
+2011,BDI,Inondation,1
+2011,BDI,Orage,1
+2011,BEL,Inondation,1
+2011,BEL,Orage,1
+2011,BEN,Inondation,1
+2011,BFA,Sécheresse,1
+2011,BGD,Inondation,1
+2011,BGD,Orage,1
+2011,BGD,Température extrême,2
+2011,BHS,Orage,1
+2011,BOL,Inondation,1
+2011,BRA,Inondation,8
+2011,BWA,Inondation,1
+2011,CAF,Inondation,1
+2011,CAF,Orage,1
+2011,CAN,Incendies,1
+2011,CAN,Inondation,1
+2011,CAN,Orage,2
+2011,CHE,Orage,1
+2011,CHL,Incendies,2
+2011,CHL,Température extrême,1
+2011,CHN,Inondation,5
+2011,CHN,Orage,5
+2011,CHN,Température extrême,1
+2011,COD,Inondation,2
+2011,COL,Inondation,2
+2011,CRI,Inondation,1
+2011,DEU,Inondation,1
+2011,DMA,Orage,1
+2011,DOM,Inondation,1
+2011,DOM,Orage,2
+2011,DZA,Inondation,1
+2011,ECU,Inondation,1
+2011,ESP,Inondation,1
+2011,ETH,Inondation,1
+2011,ETH,Sécheresse,1
+2011,FRA,Inondation,1
+2011,FRA,Orage,1
+2011,GEO,Inondation,1
+2011,GHA,Inondation,2
+2011,GIN,Inondation,1
+2011,GTM,Inondation,3
+2011,GTM,Orage,1
+2011,GTM,Température extrême,1
+2011,HND,Inondation,1
+2011,HTI,Inondation,2
+2011,HTI,Orage,2
+2011,IDN,Inondation,6
+2011,IND,Inondation,7
+2011,IND,Orage,3
+2011,IND,Température extrême,2
+2011,IRL,Inondation,1
+2011,IRQ,Inondation,1
+2011,ITA,Inondation,2
+2011,ITA,Température extrême,1
+2011,JPN,Inondation,1
+2011,JPN,Orage,3
+2011,JPN,Température extrême,1
+2011,KAZ,Inondation,1
+2011,KEN,Inondation,3
+2011,KEN,Sécheresse,1
+2011,KHM,Inondation,1
+2011,KOR,Inondation,2
+2011,LAO,Inondation,2
+2011,LKA,Inondation,3
+2011,LKA,Orage,1
+2011,LSO,Inondation,2
+2011,LSO,Sécheresse,1
+2011,MDG,Orage,1
+2011,MEX,Incendies,1
+2011,MEX,Inondation,3
+2011,MEX,Orage,5
+2011,MEX,Sécheresse,1
+2011,MEX,Température extrême,1
+2011,MLI,Inondation,1
+2011,MLI,Sécheresse,1
+2011,MMR,Inondation,1
+2011,MOZ,Inondation,2
+2011,MOZ,Orage,1
+2011,MRT,Sécheresse,1
+2011,MTQ,Orage,1
+2011,MWI,Inondation,3
+2011,MYS,Inondation,1
+2011,NAM,Inondation,1
+2011,NER,Inondation,2
+2011,NER,Sécheresse,1
+2011,NGA,Inondation,4
+2011,NGA,Orage,1
+2011,NIC,Inondation,1
+2011,NOR,Orage,1
+2011,NPL,Inondation,2
+2011,NPL,Température extrême,2
+2011,OMN,Orage,1
+2011,PAK,Inondation,1
+2011,PAN,Inondation,2
+2011,PER,Inondation,3
+2011,PER,Orage,1
+2011,PER,Température extrême,1
+2011,PHL,Inondation,15
+2011,PHL,Orage,12
+2011,PNG,Orage,1
+2011,POL,Température extrême,1
+2011,PRI,Orage,2
+2011,PRK,Inondation,2
+2011,PRK,Orage,1
+2011,PRY,Orage,1
+2011,RUS,Inondation,2
+2011,RUS,Orage,1
+2011,RWA,Inondation,1
+2011,SAU,Inondation,1
+2011,SDN,Orage,1
+2011,SDN,Sécheresse,1
+2011,SEN,Inondation,1
+2011,SEN,Sécheresse,1
+2011,SLB,Orage,1
+2011,SLE,Inondation,1
+2011,SLV,Inondation,1
+2011,SOM,Inondation,1
+2011,SOM,Sécheresse,1
+2011,THA,Inondation,2
+2011,THA,Orage,1
+2011,THA,Sécheresse,1
+2011,TJK,Inondation,1
+2011,TON,Orage,1
+2011,TUR,Inondation,1
+2011,TUV,Sécheresse,1
+2011,TZA,Inondation,3
+2011,TZA,Sécheresse,1
+2011,UGA,Inondation,1
+2011,UGA,Orage,1
+2011,USA,Incendies,3
+2011,USA,Inondation,4
+2011,USA,Orage,14
+2011,USA,Sécheresse,1
+2011,USA,Température extrême,1
+2011,VCT,Inondation,1
+2011,VEN,Inondation,3
+2011,VNM,Inondation,3
+2011,VNM,Orage,2
+2011,VUT,Orage,2
+2011,ZAF,Inondation,1
+2011,ZAF,Orage,2
+2011,ZMB,Inondation,1
+2011,ZWE,Inondation,1
+2012,AFG,Inondation,6
+2012,AFG,Température extrême,1
+2012,AGO,Sécheresse,1
+2012,ALB,Température extrême,1
+2012,ARG,Inondation,1
+2012,ARG,Orage,2
+2012,AUS,Inondation,2
+2012,AUT,Température extrême,1
+2012,AZE,Température extrême,1
+2012,BEL,Température extrême,1
+2012,BEN,Inondation,1
+2012,BFA,Inondation,1
+2012,BGD,Inondation,2
+2012,BGD,Orage,2
+2012,BGD,Température extrême,1
+2012,BGR,Inondation,1
+2012,BGR,Température extrême,2
+2012,BHS,Orage,1
+2012,BIH,Température extrême,1
+2012,BLR,Température extrême,1
+2012,BOL,Inondation,1
+2012,BRA,Inondation,2
+2012,BRA,Sécheresse,1
+2012,CAF,Orage,2
+2012,CAN,Inondation,1
+2012,CAN,Orage,2
+2012,CHE,Température extrême,2
+2012,CHL,Incendies,1
+2012,CHL,Inondation,1
+2012,CHN,Inondation,12
+2012,CHN,Orage,8
+2012,CHN,Température extrême,1
+2012,CMR,Inondation,2
+2012,CMR,Sécheresse,1
+2012,COD,Inondation,1
+2012,COG,Inondation,2
+2012,COL,Inondation,3
+2012,COM,Inondation,1
+2012,CRI,Inondation,1
+2012,CUB,Inondation,1
+2012,CUB,Orage,2
+2012,CZE,Température extrême,2
+2012,DEU,Température extrême,2
+2012,DOM,Inondation,2
+2012,DOM,Orage,2
+2012,DZA,Inondation,2
+2012,ECU,Incendies,1
+2012,ECU,Inondation,1
+2012,ESP,Incendies,1
+2012,ESP,Inondation,1
+2012,EST,Température extrême,1
+2012,FJI,Inondation,2
+2012,FJI,Orage,1
+2012,FRA,Température extrême,1
+2012,GAB,Inondation,1
+2012,GBR,Inondation,5
+2012,GEO,Inondation,1
+2012,GEO,Orage,1
+2012,GMB,Sécheresse,1
+2012,GRC,Inondation,1
+2012,GRC,Température extrême,1
+2012,GTM,Sécheresse,1
+2012,HND,Sécheresse,1
+2012,HRV,Inondation,1
+2012,HRV,Température extrême,2
+2012,HTI,Inondation,3
+2012,HTI,Orage,2
+2012,HUN,Température extrême,1
+2012,IDN,Inondation,7
+2012,IDN,Orage,2
+2012,IND,Inondation,6
+2012,IND,Orage,1
+2012,IND,Température extrême,2
+2012,IRN,Inondation,1
+2012,IRQ,Inondation,1
+2012,ITA,Inondation,1
+2012,ITA,Sécheresse,1
+2012,ITA,Température extrême,1
+2012,JAM,Orage,1
+2012,JPN,Inondation,1
+2012,JPN,Orage,6
+2012,KAZ,Inondation,1
+2012,KAZ,Température extrême,1
+2012,KEN,Inondation,1
+2012,KGZ,Inondation,1
+2012,KGZ,Température extrême,1
+2012,KHM,Inondation,1
+2012,KOR,Orage,3
+2012,LKA,Inondation,1
+2012,LKA,Orage,1
+2012,LKA,Sécheresse,1
+2012,LTU,Température extrême,2
+2012,LVA,Température extrême,1
+2012,MAR,Température extrême,1
+2012,MDA,Sécheresse,1
+2012,MDA,Température extrême,1
+2012,MDG,Orage,3
+2012,MEX,Orage,2
+2012,MKD,Température extrême,1
+2012,MMR,Inondation,1
+2012,MNE,Température extrême,1
+2012,MOZ,Orage,3
+2012,MWI,Inondation,2
+2012,MWI,Orage,1
+2012,MWI,Sécheresse,1
+2012,NAM,Inondation,1
+2012,NER,Inondation,1
+2012,NGA,Inondation,1
+2012,NGA,Orage,1
+2012,NIC,Inondation,1
+2012,NLD,Température extrême,1
+2012,NPL,Inondation,1
+2012,NPL,Température extrême,1
+2012,NZL,Orage,1
+2012,PAK,Inondation,3
+2012,PAN,Inondation,2
+2012,PER,Inondation,1
+2012,PER,Température extrême,1
+2012,PHL,Inondation,8
+2012,PHL,Orage,9
+2012,PLW,Orage,1
+2012,PNG,Inondation,1
+2012,POL,Orage,1
+2012,POL,Température extrême,3
+2012,PRI,Orage,1
+2012,PRK,Inondation,1
+2012,PRK,Orage,1
+2012,PRK,Sécheresse,1
+2012,PRY,Inondation,1
+2012,PRY,Orage,1
+2012,PRY,Sécheresse,1
+2012,PSE,Inondation,1
+2012,ROU,Température extrême,1
+2012,RUS,Incendies,1
+2012,RUS,Inondation,4
+2012,RUS,Sécheresse,1
+2012,RUS,Température extrême,2
+2012,RWA,Inondation,1
+2012,SAU,Inondation,1
+2012,SDN,Inondation,1
+2012,SEN,Inondation,1
+2012,SLB,Inondation,1
+2012,SOM,Inondation,2
+2012,SRB,Température extrême,3
+2012,SSD,Inondation,2
+2012,SVK,Température extrême,1
+2012,SVN,Inondation,1
+2012,TCD,Inondation,2
+2012,TCD,Sécheresse,1
+2012,THA,Inondation,1
+2012,THA,Sécheresse,1
+2012,TJK,Inondation,1
+2012,TJK,Température extrême,1
+2012,TUR,Inondation,1
+2012,TWN,Inondation,1
+2012,TWN,Orage,2
+2012,TZA,Inondation,1
+2012,UGA,Inondation,1
+2012,UKR,Sécheresse,1
+2012,UKR,Température extrême,2
+2012,USA,Incendies,2
+2012,USA,Inondation,1
+2012,USA,Orage,19
+2012,USA,Sécheresse,2
+2012,USA,Température extrême,1
+2012,VEN,Inondation,1
+2012,VNM,Inondation,1
+2012,VNM,Orage,3
+2012,WLF,Orage,1
+2012,WSM,Orage,1
+2012,ZAF,Inondation,1
+2012,ZAF,Orage,1
+2013,AFG,Inondation,4
+2013,AGO,Inondation,1
+2013,ARG,Inondation,1
+2013,ARG,Orage,1
+2013,ARM,Orage,1
+2013,ARM,Température extrême,1
+2013,AUS,Incendies,2
+2013,AUS,Orage,1
+2013,AUT,Inondation,1
+2013,BEL,Orage,2
+2013,BEN,Incendies,1
+2013,BEN,Inondation,1
+2013,BFA,Inondation,1
+2013,BGD,Orage,3
+2013,BHS,Inondation,1
+2013,BLR,Température extrême,1
+2013,BOL,Inondation,2
+2013,BOL,Sécheresse,1
+2013,BOL,Température extrême,1
+2013,BRA,Inondation,5
+2013,BRA,Orage,1
+2013,BWA,Inondation,1
+2013,CAF,Inondation,1
+2013,CAF,Orage,1
+2013,CAN,Inondation,1
+2013,CAN,Orage,1
+2013,CAN,Température extrême,1
+2013,CHE,Orage,2
+2013,CHL,Température extrême,1
+2013,CHN,Inondation,14
+2013,CHN,Orage,15
+2013,CHN,Sécheresse,1
+2013,CHN,Température extrême,1
+2013,CMR,Inondation,1
+2013,COL,Inondation,1
+2013,CUB,Inondation,1
+2013,CZE,Inondation,1
+2013,DEU,Inondation,1
+2013,DEU,Orage,3
+2013,DNK,Orage,2
+2013,DOM,Inondation,1
+2013,ECU,Inondation,1
+2013,ECU,Sécheresse,1
+2013,ESP,Inondation,1
+2013,ESP,Orage,1
+2013,ETH,Inondation,1
+2013,FRA,Inondation,1
+2013,FRA,Orage,2
+2013,GBR,Inondation,1
+2013,GBR,Orage,3
+2013,GBR,Température extrême,1
+2013,GEO,Inondation,2
+2013,GEO,Orage,1
+2013,GHA,Inondation,1
+2013,GIN,Inondation,1
+2013,GMB,Inondation,1
+2013,HTI,Inondation,1
+2013,HUN,Inondation,1
+2013,HUN,Orage,1
+2013,IDN,Inondation,10
+2013,IND,Inondation,5
+2013,IND,Orage,5
+2013,IND,Température extrême,1
+2013,IRQ,Inondation,1
+2013,ISR,Orage,1
+2013,ITA,Inondation,1
+2013,JPN,Inondation,1
+2013,JPN,Orage,7
+2013,JPN,Température extrême,1
+2013,KEN,Inondation,4
+2013,KHM,Inondation,1
+2013,LAO,Inondation,2
+2013,LBY,Inondation,1
+2013,LCA,Inondation,1
+2013,LKA,Inondation,2
+2013,LKA,Orage,1
+2013,MDG,Orage,2
+2013,MEX,Inondation,1
+2013,MEX,Orage,4
+2013,MHL,Sécheresse,1
+2013,MKD,Inondation,1
+2013,MLI,Inondation,2
+2013,MMR,Inondation,1
+2013,MOZ,Inondation,1
+2013,MRT,Inondation,1
+2013,MUS,Inondation,1
+2013,MWI,Inondation,1
+2013,MYS,Inondation,1
+2013,NAM,Inondation,1
+2013,NAM,Sécheresse,1
+2013,NER,Inondation,2
+2013,NGA,Inondation,1
+2013,NIC,Inondation,1
+2013,NLD,Orage,3
+2013,NPL,Inondation,2
+2013,NZL,Orage,1
+2013,NZL,Sécheresse,1
+2013,PAK,Inondation,2
+2013,PAN,Sécheresse,1
+2013,PER,Inondation,2
+2013,PER,Température extrême,1
+2013,PHL,Inondation,5
+2013,PHL,Orage,8
+2013,PLW,Orage,1
+2013,PNG,Inondation,1
+2013,POL,Orage,1
+2013,POL,Température extrême,1
+2013,PRK,Inondation,1
+2013,PRT,Incendies,1
+2013,PRT,Orage,2
+2013,PRY,Inondation,1
+2013,PRY,Orage,1
+2013,PRY,Sécheresse,1
+2013,PSE,Inondation,1
+2013,PSE,Orage,1
+2013,ROU,Inondation,1
+2013,RUS,Inondation,2
+2013,SAU,Inondation,2
+2013,SDN,Inondation,1
+2013,SEN,Inondation,1
+2013,SLB,Inondation,1
+2013,SLE,Incendies,1
+2013,SOM,Inondation,2
+2013,SOM,Orage,1
+2013,SRB,Inondation,2
+2013,SSD,Inondation,2
+2013,SVK,Inondation,1
+2013,SWE,Orage,1
+2013,SYC,Orage,1
+2013,THA,Inondation,3
+2013,TJK,Température extrême,1
+2013,TWN,Orage,3
+2013,UGA,Inondation,1
+2013,UKR,Inondation,1
+2013,USA,Incendies,5
+2013,USA,Inondation,7
+2013,USA,Orage,15
+2013,USA,Température extrême,1
+2013,VCT,Inondation,1
+2013,VNM,Inondation,6
+2013,VNM,Orage,4
+2013,YEM,Inondation,1
+2013,ZAF,Orage,1
+2013,ZMB,Inondation,1
+2013,ZWE,Inondation,1
+2013,ZWE,Sécheresse,1
+2014,AFG,Inondation,2
+2014,AFG,Orage,1
+2014,ARG,Inondation,3
+2014,AUS,Incendies,2
+2014,AUS,Orage,1
+2014,AUS,Température extrême,1
+2014,BDI,Inondation,1
+2014,BEL,Orage,1
+2014,BFA,Sécheresse,1
+2014,BGD,Inondation,2
+2014,BGD,Orage,2
+2014,BGR,Inondation,4
+2014,BGR,Orage,1
+2014,BIH,Inondation,4
+2014,BLR,Température extrême,1
+2014,BOL,Inondation,2
+2014,BOL,Sécheresse,1
+2014,BRA,Inondation,4
+2014,BRA,Sécheresse,1
+2014,CAN,Inondation,1
+2014,CAN,Température extrême,1
+2014,CHE,Orage,1
+2014,CHL,Incendies,1
+2014,CHL,Inondation,1
+2014,CHN,Inondation,13
+2014,CHN,Orage,16
+2014,CHN,Sécheresse,2
+2014,CIV,Inondation,2
+2014,CMR,Inondation,1
+2014,COD,Inondation,1
+2014,COL,Inondation,4
+2014,COL,Orage,1
+2014,COM,Orage,1
+2014,CRI,Sécheresse,1
+2014,DEU,Orage,2
+2014,DOM,Inondation,1
+2014,ESP,Orage,1
+2014,FRA,Inondation,3
+2014,FRA,Orage,4
+2014,GBR,Inondation,1
+2014,GBR,Orage,1
+2014,GEO,Inondation,1
+2014,GRC,Inondation,1
+2014,GTM,Inondation,1
+2014,GTM,Orage,1
+2014,GTM,Sécheresse,1
+2014,GTM,Température extrême,1
+2014,HND,Inondation,2
+2014,HND,Sécheresse,1
+2014,HRV,Inondation,2
+2014,HTI,Inondation,1
+2014,HTI,Sécheresse,1
+2014,HUN,Inondation,1
+2014,IDN,Inondation,6
+2014,IND,Inondation,7
+2014,IND,Orage,5
+2014,IND,Température extrême,3
+2014,IRL,Orage,1
+2014,IRN,Inondation,1
+2014,ITA,Inondation,4
+2014,ITA,Orage,1
+2014,JAM,Sécheresse,1
+2014,JPN,Orage,9
+2014,JPN,Température extrême,1
+2014,KAZ,Inondation,1
+2014,KEN,Sécheresse,1
+2014,KGZ,Orage,1
+2014,KHM,Inondation,1
+2014,KIR,Inondation,1
+2014,KOR,Inondation,1
+2014,KOR,Orage,2
+2014,LAO,Inondation,1
+2014,LKA,Inondation,3
+2014,LKA,Sécheresse,1
+2014,LSO,Orage,1
+2014,MAR,Inondation,1
+2014,MAR,Orage,2
+2014,MDG,Orage,1
+2014,MDG,Sécheresse,1
+2014,MEX,Orage,6
+2014,MHL,Inondation,1
+2014,MKD,Température extrême,1
+2014,MMR,Inondation,2
+2014,MOZ,Inondation,2
+2014,MYS,Inondation,1
+2014,MYS,Sécheresse,1
+2014,NER,Inondation,1
+2014,NGA,Inondation,1
+2014,NIC,Inondation,1
+2014,NIC,Sécheresse,1
+2014,NPL,Inondation,3
+2014,NPL,Orage,1
+2014,PAK,Inondation,1
+2014,PAK,Orage,1
+2014,PAK,Température extrême,1
+2014,PAN,Inondation,1
+2014,PER,Inondation,3
+2014,PER,Température extrême,1
+2014,PHL,Inondation,3
+2014,PHL,Orage,9
+2014,PNG,Inondation,1
+2014,PNG,Orage,1
+2014,POL,Température extrême,1
+2014,PRI,Inondation,1
+2014,PRT,Orage,2
+2014,PRY,Inondation,2
+2014,REU,Orage,1
+2014,ROU,Inondation,2
+2014,ROU,Température extrême,1
+2014,RUS,Inondation,1
+2014,SDN,Inondation,1
+2014,SEN,Sécheresse,1
+2014,SLB,Inondation,1
+2014,SLV,Sécheresse,1
+2014,SOM,Inondation,1
+2014,SOM,Sécheresse,1
+2014,SRB,Inondation,4
+2014,SRB,Température extrême,1
+2014,SVN,Inondation,1
+2014,SVN,Température extrême,1
+2014,SWZ,Inondation,1
+2014,SYC,Inondation,1
+2014,THA,Inondation,4
+2014,THA,Orage,1
+2014,THA,Sécheresse,1
+2014,THA,Température extrême,1
+2014,TJK,Inondation,2
+2014,TON,Orage,1
+2014,TWN,Orage,2
+2014,TZA,Inondation,2
+2014,USA,Incendies,1
+2014,USA,Inondation,2
+2014,USA,Orage,13
+2014,USA,Sécheresse,1
+2014,USA,Température extrême,1
+2014,VNM,Orage,3
+2014,VUT,Orage,1
+2014,ZAF,Inondation,1
+2014,ZMB,Inondation,1
+2014,ZWE,Inondation,2
+2015,AFG,Inondation,1
+2015,AGO,Inondation,3
+2015,ALB,Inondation,3
+2015,ARG,Inondation,3
+2015,ARG,Orage,1
+2015,AUS,Incendies,3
+2015,AUS,Inondation,1
+2015,AUS,Orage,4
+2015,BDI,Inondation,1
+2015,BEL,Température extrême,1
+2015,BFA,Inondation,1
+2015,BGD,Inondation,2
+2015,BGD,Orage,4
+2015,BGR,Inondation,1
+2015,BHS,Orage,1
+2015,BIH,Inondation,1
+2015,BLZ,Inondation,1
+2015,BOL,Inondation,1
+2015,BRA,Inondation,4
+2015,BRA,Orage,1
+2015,BWA,Sécheresse,1
+2015,CAF,Orage,1
+2015,CAN,Incendies,1
+2015,CHL,Incendies,1
+2015,CHL,Inondation,2
+2015,CHL,Orage,1
+2015,CHN,Inondation,12
+2015,CHN,Orage,17
+2015,CHN,Sécheresse,1
+2015,CIV,Inondation,1
+2015,CMR,Inondation,1
+2015,COD,Incendies,1
+2015,COD,Inondation,3
+2015,COL,Incendies,1
+2015,COL,Inondation,1
+2015,COL,Sécheresse,1
+2015,CPV,Orage,1
+2015,CRI,Inondation,1
+2015,CUB,Inondation,1
+2015,CUB,Sécheresse,1
+2015,DMA,Orage,1
+2015,DOM,Inondation,2
+2015,DOM,Orage,1
+2015,DZA,Inondation,2
+2015,ECU,Inondation,1
+2015,EGY,Orage,2
+2015,EGY,Température extrême,1
+2015,ESP,Inondation,2
+2015,ETH,Inondation,1
+2015,ETH,Sécheresse,1
+2015,FJI,Sécheresse,1
+2015,FRA,Inondation,1
+2015,FRA,Orage,1
+2015,FRA,Température extrême,1
+2015,FSM,Orage,1
+2015,GBR,Inondation,1
+2015,GBR,Orage,1
+2015,GEO,Inondation,1
+2015,GHA,Inondation,1
+2015,GIN,Inondation,1
+2015,GMB,Sécheresse,1
+2015,GRC,Inondation,2
+2015,GTM,Inondation,2
+2015,GUY,Inondation,1
+2015,HRV,Inondation,1
+2015,HTI,Inondation,1
+2015,HTI,Orage,1
+2015,IDN,Incendies,1
+2015,IDN,Inondation,6
+2015,IDN,Sécheresse,1
+2015,IND,Inondation,10
+2015,IND,Orage,6
+2015,IND,Sécheresse,1
+2015,IND,Température extrême,1
+2015,IRL,Orage,1
+2015,IRN,Inondation,5
+2015,IRQ,Inondation,1
+2015,ISR,Orage,1
+2015,ITA,Inondation,3
+2015,ITA,Orage,1
+2015,JPN,Inondation,1
+2015,JPN,Orage,6
+2015,JPN,Température extrême,3
+2015,KAZ,Inondation,1
+2015,KEN,Inondation,3
+2015,KHM,Inondation,1
+2015,KHM,Orage,1
+2015,KIR,Orage,1
+2015,LAO,Inondation,2
+2015,LBN,Orage,3
+2015,LKA,Inondation,2
+2015,MDG,Inondation,1
+2015,MDG,Orage,2
+2015,MEX,Inondation,1
+2015,MEX,Orage,3
+2015,MHL,Sécheresse,1
+2015,MKD,Inondation,2
+2015,MLI,Inondation,1
+2015,MMR,Inondation,3
+2015,MMR,Orage,1
+2015,MNG,Température extrême,1
+2015,MNP,Orage,1
+2015,MOZ,Inondation,1
+2015,MWI,Inondation,1
+2015,MWI,Orage,1
+2015,MWI,Sécheresse,1
+2015,MYS,Inondation,1
+2015,NAM,Sécheresse,1
+2015,NER,Inondation,1
+2015,NER,Sécheresse,1
+2015,NGA,Inondation,1
+2015,NIC,Inondation,1
+2015,NZL,Inondation,2
+2015,OMN,Orage,1
+2015,PAK,Inondation,6
+2015,PAK,Température extrême,1
+2015,PAN,Inondation,1
+2015,PAN,Sécheresse,1
+2015,PER,Inondation,2
+2015,PER,Température extrême,1
+2015,PHL,Inondation,5
+2015,PHL,Orage,10
+2015,PHL,Sécheresse,1
+2015,PLW,Sécheresse,1
+2015,PNG,Inondation,1
+2015,PNG,Orage,1
+2015,PNG,Sécheresse,1
+2015,POL,Orage,1
+2015,POL,Température extrême,1
+2015,PRK,Inondation,1
+2015,PRK,Sécheresse,1
+2015,PRT,Inondation,1
+2015,PRY,Inondation,2
+2015,PRY,Orage,1
+2015,PSE,Orage,2
+2015,ROU,Inondation,1
+2015,RUS,Incendies,1
+2015,RUS,Inondation,1
+2015,RWA,Inondation,1
+2015,SAU,Inondation,2
+2015,SDN,Inondation,1
+2015,SDN,Sécheresse,1
+2015,SDN,Température extrême,1
+2015,SLB,Orage,2
+2015,SLB,Sécheresse,1
+2015,SLE,Inondation,1
+2015,SLV,Inondation,1
+2015,SLV,Orage,1
+2015,SOM,Inondation,2
+2015,SOM,Orage,2
+2015,SOM,Sécheresse,1
+2015,SYR,Orage,2
+2015,THA,Orage,1
+2015,THA,Sécheresse,1
+2015,TJK,Inondation,2
+2015,TON,Sécheresse,1
+2015,TUR,Inondation,2
+2015,TUV,Orage,1
+2015,TWN,Orage,3
+2015,TZA,Inondation,1
+2015,TZA,Orage,1
+2015,URY,Inondation,3
+2015,USA,Incendies,4
+2015,USA,Inondation,5
+2015,USA,Orage,19
+2015,USA,Sécheresse,1
+2015,VEN,Inondation,1
+2015,VNM,Inondation,2
+2015,VNM,Orage,2
+2015,VNM,Sécheresse,1
+2015,VUT,Orage,1
+2015,WSM,Sécheresse,1
+2015,YEM,Orage,2
+2015,ZAF,Sécheresse,1
+2015,ZWE,Orage,1
+2016,AFG,Inondation,4
+2016,AGO,Inondation,4
+2016,ALB,Inondation,1
+2016,ARG,Inondation,2
+2016,AUS,Incendies,1
+2016,AUS,Inondation,1
+2016,AUS,Orage,1
+2016,AUT,Inondation,1
+2016,BEL,Inondation,1
+2016,BEL,Orage,1
+2016,BFA,Inondation,1
+2016,BGD,Inondation,1
+2016,BGD,Orage,2
+2016,BHS,Orage,1
+2016,BLZ,Orage,1
+2016,BOL,Inondation,2
+2016,BOL,Sécheresse,1
+2016,BRA,Inondation,2
+2016,CAN,Incendies,1
+2016,CAN,Inondation,1
+2016,CHL,Inondation,1
+2016,CHN,Inondation,12
+2016,CHN,Orage,13
+2016,CHN,Sécheresse,1
+2016,CHN,Température extrême,1
+2016,CIV,Inondation,1
+2016,COD,Inondation,2
+2016,COL,Inondation,2
+2016,CRI,Orage,1
+2016,CUB,Orage,1
+2016,DEU,Inondation,1
+2016,DOM,Inondation,2
+2016,DOM,Orage,1
+2016,ECU,Inondation,2
+2016,EGY,Orage,1
+2016,ESP,Inondation,1
+2016,ETH,Inondation,2
+2016,FJI,Orage,2
+2016,FRA,Inondation,1
+2016,FSM,Sécheresse,1
+2016,GHA,Inondation,1
+2016,GRC,Inondation,1
+2016,GTM,Orage,1
+2016,HND,Inondation,1
+2016,HND,Orage,1
+2016,HTI,Inondation,6
+2016,HTI,Orage,1
+2016,HTI,Sécheresse,1
+2016,HUN,Inondation,1
+2016,IDN,Inondation,10
+2016,IND,Incendies,1
+2016,IND,Inondation,8
+2016,IND,Orage,3
+2016,IND,Température extrême,1
+2016,IRN,Orage,1
+2016,ISR,Incendies,1
+2016,ITA,Inondation,1
+2016,JAM,Orage,1
+2016,JPN,Inondation,1
+2016,JPN,Orage,4
+2016,JPN,Température extrême,2
+2016,KEN,Inondation,2
+2016,KEN,Sécheresse,1
+2016,KHM,Sécheresse,1
+2016,KOR,Orage,1
+2016,KOR,Température extrême,1
+2016,LAO,Inondation,1
+2016,LBR,Inondation,1
+2016,LCA,Orage,1
+2016,LKA,Inondation,1
+2016,LKA,Sécheresse,1
+2016,LSO,Sécheresse,1
+2016,MAR,Température extrême,1
+2016,MDG,Sécheresse,1
+2016,MEX,Inondation,5
+2016,MEX,Orage,2
+2016,MKD,Inondation,1
+2016,MLI,Inondation,1
+2016,MMR,Inondation,2
+2016,MMR,Orage,2
+2016,MNG,Température extrême,1
+2016,MOZ,Inondation,2
+2016,MOZ,Orage,1
+2016,MOZ,Sécheresse,1
+2016,MWI,Inondation,1
+2016,MYS,Inondation,4
+2016,NER,Inondation,2
+2016,NGA,Inondation,1
+2016,NGA,Orage,1
+2016,NIC,Orage,1
+2016,NLD,Orage,1
+2016,NPL,Incendies,1
+2016,NPL,Inondation,2
+2016,NZL,Inondation,1
+2016,OMN,Inondation,1
+2016,PAK,Inondation,7
+2016,PAK,Orage,1
+2016,PAN,Orage,1
+2016,PER,Inondation,1
+2016,PHL,Inondation,2
+2016,PHL,Orage,8
+2016,PNG,Inondation,1
+2016,POL,Inondation,1
+2016,POL,Température extrême,1
+2016,PRK,Inondation,2
+2016,PRT,Incendies,1
+2016,PRY,Sécheresse,1
+2016,ROU,Inondation,2
+2016,RUS,Inondation,3
+2016,RWA,Inondation,1
+2016,SAU,Inondation,2
+2016,SAU,Orage,1
+2016,SDN,Inondation,1
+2016,SEN,Inondation,1
+2016,SOM,Inondation,1
+2016,SRB,Inondation,2
+2016,SSD,Inondation,1
+2016,SSD,Sécheresse,1
+2016,SWZ,Sécheresse,1
+2016,THA,Inondation,3
+2016,THA,Température extrême,1
+2016,TJK,Inondation,1
+2016,TLS,Sécheresse,1
+2016,TON,Orage,3
+2016,TWN,Orage,3
+2016,TWN,Température extrême,1
+2016,TZA,Inondation,3
+2016,UGA,Inondation,1
+2016,UKR,Inondation,1
+2016,UKR,Température extrême,1
+2016,URY,Inondation,1
+2016,USA,Incendies,4
+2016,USA,Inondation,6
+2016,USA,Orage,16
+2016,VCT,Inondation,1
+2016,VCT,Orage,1
+2016,VEN,Inondation,1
+2016,VNM,Inondation,4
+2016,VNM,Orage,4
+2016,YEM,Inondation,1
+2016,ZAF,Inondation,2
+2016,ZAF,Température extrême,1
+2016,ZWE,Orage,1
+2017,AFG,Inondation,1
+2017,AFG,Orage,2
+2017,AGO,Inondation,1
+2017,AGO,Sécheresse,1
+2017,AIA,Orage,1
+2017,ALB,Inondation,1
+2017,ALB,Température extrême,1
+2017,ARE,Inondation,1
+2017,ARG,Inondation,3
+2017,ATG,Orage,1
+2017,AUS,Incendies,1
+2017,AUS,Orage,2
+2017,AUT,Orage,2
+2017,BFA,Inondation,1
+2017,BGD,Inondation,2
+2017,BGD,Orage,2
+2017,BHS,Orage,1
+2017,BLM,Orage,1
+2017,BLR,Température extrême,1
+2017,BRA,Inondation,1
+2017,BRB,Orage,1
+2017,BWA,Inondation,1
+2017,CAF,Inondation,1
+2017,CAF,Orage,1
+2017,CAN,Incendies,1
+2017,CAN,Inondation,2
+2017,CHL,Incendies,1
+2017,CHL,Inondation,3
+2017,CHN,Inondation,12
+2017,CHN,Orage,9
+2017,CHN,Sécheresse,1
+2017,CIV,Inondation,1
+2017,CMR,Inondation,1
+2017,COD,Inondation,1
+2017,COL,Inondation,4
+2017,COL,Orage,1
+2017,CPV,Sécheresse,1
+2017,CRI,Orage,1
+2017,CUB,Orage,1
+2017,CZE,Orage,1
+2017,DEU,Inondation,1
+2017,DEU,Orage,2
+2017,DMA,Orage,1
+2017,DOM,Orage,3
+2017,DZA,Température extrême,1
+2017,ESP,Incendies,2
+2017,FRA,Incendies,1
+2017,FRA,Inondation,1
+2017,FRA,Orage,1
+2017,GBR,Inondation,1
+2017,GHA,Inondation,1
+2017,GHA,Orage,1
+2017,GIN,Inondation,1
+2017,GLP,Orage,1
+2017,GMB,Inondation,1
+2017,GRC,Inondation,1
+2017,GRC,Température extrême,1
+2017,GTM,Inondation,4
+2017,GTM,Orage,1
+2017,GUY,Inondation,1
+2017,HKG,Orage,2
+2017,HND,Inondation,3
+2017,HND,Orage,1
+2017,HRV,Incendies,1
+2017,HRV,Orage,1
+2017,HTI,Inondation,2
+2017,HTI,Orage,3
+2017,HUN,Orage,1
+2017,IDN,Inondation,7
+2017,IDN,Orage,1
+2017,IND,Inondation,9
+2017,IND,Orage,5
+2017,IND,Température extrême,1
+2017,IRL,Inondation,1
+2017,IRN,Inondation,2
+2017,ITA,Inondation,1
+2017,ITA,Orage,2
+2017,ITA,Sécheresse,1
+2017,JAM,Orage,1
+2017,JPN,Inondation,1
+2017,JPN,Orage,3
+2017,KAZ,Inondation,1
+2017,KEN,Inondation,1
+2017,KNA,Orage,1
+2017,LAO,Orage,1
+2017,LKA,Inondation,2
+2017,LKA,Orage,1
+2017,MAC,Orage,2
+2017,MAF,Orage,1
+2017,MAR,Température extrême,2
+2017,MDG,Orage,1
+2017,MDG,Sécheresse,1
+2017,MEX,Inondation,1
+2017,MEX,Orage,4
+2017,MKD,Température extrême,1
+2017,MMR,Inondation,1
+2017,MMR,Orage,1
+2017,MNE,Incendies,1
+2017,MOZ,Orage,1
+2017,MRT,Orage,1
+2017,MRT,Sécheresse,1
+2017,MTQ,Orage,1
+2017,MWI,Inondation,1
+2017,MYS,Inondation,3
+2017,MYS,Orage,1
+2017,NAM,Inondation,1
+2017,NER,Inondation,2
+2017,NER,Sécheresse,1
+2017,NGA,Inondation,2
+2017,NIC,Inondation,1
+2017,NIC,Orage,1
+2017,NPL,Inondation,2
+2017,NZL,Inondation,1
+2017,NZL,Orage,1
+2017,OMN,Inondation,1
+2017,PAK,Inondation,2
+2017,PAK,Orage,2
+2017,PAN,Orage,1
+2017,PER,Inondation,3
+2017,PHL,Inondation,3
+2017,PHL,Orage,8
+2017,POL,Orage,1
+2017,PRI,Orage,2
+2017,PRK,Sécheresse,1
+2017,PRT,Incendies,2
+2017,PYF,Inondation,1
+2017,ROU,Orage,1
+2017,RUS,Inondation,1
+2017,RUS,Orage,1
+2017,RWA,Orage,2
+2017,SAU,Inondation,1
+2017,SDN,Inondation,1
+2017,SLV,Orage,1
+2017,SRB,Température extrême,1
+2017,SVK,Orage,1
+2017,SXM,Orage,1
+2017,TCA,Orage,1
+2017,TCD,Sécheresse,1
+2017,TGO,Inondation,1
+2017,THA,Inondation,4
+2017,THA,Orage,2
+2017,TJK,Inondation,1
+2017,TUN,Incendies,1
+2017,TUR,Orage,1
+2017,TWN,Inondation,1
+2017,TWN,Orage,1
+2017,TZA,Inondation,1
+2017,UGA,Inondation,1
+2017,UKR,Température extrême,1
+2017,URY,Inondation,1
+2017,USA,Incendies,3
+2017,USA,Inondation,3
+2017,USA,Orage,17
+2017,USA,Sécheresse,1
+2017,VGB,Orage,2
+2017,VIR,Orage,2
+2017,VNM,Inondation,5
+2017,VNM,Orage,4
+2017,VUT,Orage,1
+2017,YEM,Inondation,1
+2017,ZAF,Incendies,1
+2017,ZAF,Inondation,1
+2017,ZAF,Orage,2
+2017,ZAF,Sécheresse,1
+2017,ZWE,Orage,1
+2017,ZWE,Sécheresse,1
+2018,AFG,Inondation,3
+2018,AFG,Sécheresse,1
+2018,AGO,Inondation,1
+2018,ALB,Inondation,1
+2018,ARG,Inondation,3
+2018,ARG,Orage,1
+2018,ARG,Sécheresse,1
+2018,ARM,Orage,1
+2018,AUS,Inondation,1
+2018,AUS,Sécheresse,1
+2018,AUS,Température extrême,1
+2018,BDI,Inondation,3
+2018,BEL,Orage,1
+2018,BEL,Température extrême,1
+2018,BGD,Inondation,2
+2018,BGD,Orage,1
+2018,BGD,Température extrême,1
+2018,BGR,Inondation,1
+2018,BLR,Inondation,1
+2018,BOL,Inondation,1
+2018,BRA,Inondation,2
+2018,BWA,Inondation,1
+2018,CAN,Incendies,1
+2018,CAN,Inondation,1
+2018,CAN,Orage,1
+2018,CAN,Température extrême,1
+2018,CHE,Orage,1
+2018,CHN,Inondation,8
+2018,CHN,Orage,12
+2018,CIV,Inondation,1
+2018,COD,Inondation,1
+2018,COL,Inondation,2
+2018,CRI,Inondation,1
+2018,CRI,Sécheresse,1
+2018,CUB,Orage,2
+2018,CZE,Température extrême,1
+2018,DEU,Orage,1
+2018,DEU,Température extrême,1
+2018,DJI,Orage,1
+2018,DOM,Inondation,1
+2018,DOM,Orage,1
+2018,DZA,Inondation,1
+2018,ESP,Incendies,1
+2018,ESP,Inondation,1
+2018,ESP,Orage,1
+2018,ESP,Température extrême,1
+2018,EST,Température extrême,1
+2018,FJI,Orage,2
+2018,FRA,Inondation,2
+2018,FRA,Orage,3
+2018,FRA,Température extrême,2
+2018,GBR,Orage,1
+2018,GBR,Température extrême,1
+2018,GEO,Inondation,1
+2018,GHA,Inondation,1
+2018,GNB,Orage,1
+2018,GRC,Incendies,1
+2018,GTM,Inondation,2
+2018,GTM,Sécheresse,1
+2018,HKG,Orage,1
+2018,HND,Inondation,1
+2018,HND,Sécheresse,1
+2018,HRV,Inondation,1
+2018,HUN,Température extrême,1
+2018,IDN,Inondation,6
+2018,IND,Incendies,1
+2018,IND,Inondation,9
+2018,IND,Orage,11
+2018,IND,Sécheresse,1
+2018,IND,Température extrême,1
+2018,IRL,Orage,1
+2018,IRN,Inondation,1
+2018,IRQ,Inondation,1
+2018,ISR,Inondation,1
+2018,ITA,Inondation,1
+2018,ITA,Orage,1
+2018,ITA,Température extrême,2
+2018,JOR,Inondation,2
+2018,JPN,Inondation,1
+2018,JPN,Orage,3
+2018,JPN,Température extrême,1
+2018,KAZ,Inondation,1
+2018,KEN,Inondation,3
+2018,KHM,Inondation,1
+2018,KOR,Température extrême,1
+2018,KWT,Inondation,1
+2018,LAO,Inondation,1
+2018,LAO,Orage,2
+2018,LBN,Orage,1
+2018,LKA,Inondation,3
+2018,LTU,Sécheresse,1
+2018,LTU,Température extrême,1
+2018,LVA,Incendies,1
+2018,MAR,Température extrême,1
+2018,MDG,Orage,2
+2018,MEX,Inondation,1
+2018,MEX,Orage,2
+2018,MHL,Orage,1
+2018,MLI,Inondation,1
+2018,MMR,Inondation,3
+2018,MNG,Inondation,1
+2018,MNG,Orage,1
+2018,MNG,Température extrême,1
+2018,MNP,Orage,1
+2018,MOZ,Inondation,1
+2018,MRT,Sécheresse,1
+2018,MUS,Orage,1
+2018,MWI,Inondation,3
+2018,MYS,Inondation,2
+2018,NAM,Sécheresse,1
+2018,NER,Inondation,1
+2018,NGA,Inondation,2
+2018,NIC,Inondation,1
+2018,NIC,Sécheresse,1
+2018,NLD,Orage,1
+2018,NLD,Température extrême,1
+2018,NPL,Inondation,1
+2018,NPL,Température extrême,1
+2018,NZL,Inondation,1
+2018,OMN,Orage,2
+2018,PAK,Inondation,1
+2018,PAK,Température extrême,1
+2018,PAN,Sécheresse,1
+2018,PHL,Inondation,1
+2018,PHL,Orage,7
+2018,POL,Sécheresse,1
+2018,POL,Température extrême,1
+2018,PRI,Inondation,1
+2018,PRI,Orage,1
+2018,PRK,Inondation,1
+2018,PRK,Orage,1
+2018,PRK,Température extrême,1
+2018,PRT,Incendies,1
+2018,PRT,Orage,1
+2018,PRT,Température extrême,1
+2018,PRY,Inondation,2
+2018,QAT,Inondation,1
+2018,REU,Orage,1
+2018,ROU,Inondation,2
+2018,ROU,Température extrême,1
+2018,RUS,Inondation,2
+2018,RWA,Inondation,3
+2018,SDN,Inondation,3
+2018,SEN,Sécheresse,1
+2018,SLB,Orage,1
+2018,SLV,Inondation,1
+2018,SLV,Sécheresse,1
+2018,SOM,Inondation,1
+2018,SOM,Orage,1
+2018,SRB,Inondation,1
+2018,SWE,Incendies,1
+2018,TJK,Inondation,1
+2018,TON,Orage,1
+2018,TTO,Inondation,1
+2018,TUN,Inondation,2
+2018,TWN,Orage,1
+2018,TZA,Inondation,1
+2018,UKR,Orage,1
+2018,URY,Sécheresse,1
+2018,USA,Incendies,3
+2018,USA,Inondation,3
+2018,USA,Orage,11
+2018,USA,Sécheresse,1
+2018,VEN,Inondation,2
+2018,VNM,Inondation,3
+2018,VNM,Orage,4
+2018,WSM,Orage,1
+2018,YEM,Orage,2
+2019,AFG,Inondation,6
+2019,AGO,Inondation,3
+2019,ARG,Inondation,3
+2019,ARG,Sécheresse,1
+2019,ARM,Orage,1
+2019,AUS,Incendies,2
+2019,AUS,Inondation,1
+2019,AUT,Orage,1
+2019,AUT,Température extrême,1
+2019,BDI,Inondation,2
+2019,BEL,Température extrême,3
+2019,BGD,Inondation,1
+2019,BGD,Orage,3
+2019,BGD,Température extrême,1
+2019,BHS,Orage,1
+2019,BIH,Inondation,2
+2019,BOL,Incendies,1
+2019,BOL,Inondation,2
+2019,BRA,Incendies,1
+2019,BRA,Inondation,7
+2019,BWA,Sécheresse,1
+2019,CAF,Inondation,1
+2019,CAN,Inondation,1
+2019,CAN,Orage,1
+2019,CHE,Orage,1
+2019,CHL,Incendies,1
+2019,CHL,Inondation,1
+2019,CHN,Incendies,1
+2019,CHN,Inondation,6
+2019,CHN,Orage,4
+2019,CIV,Inondation,1
+2019,COD,Inondation,1
+2019,COG,Inondation,2
+2019,COL,Inondation,5
+2019,COM,Orage,2
+2019,CUB,Orage,1
+2019,DEU,Orage,1
+2019,DEU,Température extrême,2
+2019,DJI,Inondation,1
+2019,DZA,Température extrême,1
+2019,ECU,Inondation,1
+2019,ESP,Inondation,4
+2019,ESP,Orage,3
+2019,ESP,Température extrême,1
+2019,ETH,Inondation,1
+2019,FJI,Orage,1
+2019,FRA,Inondation,2
+2019,FRA,Orage,5
+2019,FRA,Température extrême,2
+2019,FSM,Orage,1
+2019,GBR,Inondation,1
+2019,GBR,Température extrême,2
+2019,GEO,Inondation,1
+2019,GHA,Inondation,2
+2019,GMB,Orage,1
+2019,GRC,Orage,1
+2019,GTM,Orage,2
+2019,HRV,Inondation,1
+2019,HTI,Inondation,2
+2019,HUN,Orage,1
+2019,IDN,Incendies,1
+2019,IDN,Inondation,11
+2019,IND,Inondation,5
+2019,IND,Orage,5
+2019,IND,Température extrême,2
+2019,IRN,Inondation,3
+2019,IRQ,Inondation,1
+2019,ITA,Inondation,1
+2019,ITA,Orage,3
+2019,ITA,Température extrême,1
+2019,JPN,Inondation,3
+2019,JPN,Orage,4
+2019,JPN,Température extrême,2
+2019,KEN,Inondation,1
+2019,KEN,Sécheresse,1
+2019,KHM,Inondation,1
+2019,KOR,Incendies,1
+2019,KOR,Orage,3
+2019,LAO,Inondation,1
+2019,LAO,Sécheresse,1
+2019,LBN,Orage,1
+2019,LBY,Inondation,1
+2019,LKA,Inondation,5
+2019,LKA,Sécheresse,1
+2019,LSO,Sécheresse,1
+2019,LUX,Orage,1
+2019,MAR,Inondation,2
+2019,MDA,Température extrême,1
+2019,MDG,Inondation,1
+2019,MDG,Orage,2
+2019,MDV,Inondation,1
+2019,MEX,Inondation,3
+2019,MEX,Orage,3
+2019,MLI,Inondation,2
+2019,MMR,Inondation,2
+2019,MNG,Inondation,1
+2019,MNG,Orage,1
+2019,MNG,Température extrême,1
+2019,MOZ,Inondation,3
+2019,MOZ,Orage,2
+2019,MRT,Inondation,1
+2019,MWI,Inondation,2
+2019,MYS,Inondation,4
+2019,NER,Inondation,2
+2019,NGA,Inondation,2
+2019,NLD,Température extrême,1
+2019,NPL,Inondation,1
+2019,NPL,Orage,1
+2019,OMN,Inondation,1
+2019,PAK,Inondation,8
+2019,PAK,Orage,1
+2019,PAK,Sécheresse,1
+2019,PER,Incendies,1
+2019,PER,Inondation,3
+2019,PHL,Inondation,1
+2019,PHL,Orage,7
+2019,PHL,Sécheresse,1
+2019,PNG,Inondation,1
+2019,POL,Orage,1
+2019,PRK,Orage,1
+2019,PRK,Sécheresse,1
+2019,PRT,Orage,1
+2019,PRY,Incendies,1
+2019,PRY,Inondation,3
+2019,ROU,Inondation,1
+2019,RUS,Incendies,1
+2019,RUS,Inondation,4
+2019,RWA,Inondation,2
+2019,SAU,Inondation,3
+2019,SDN,Inondation,2
+2019,SEN,Inondation,1
+2019,SLE,Inondation,2
+2019,SOM,Inondation,1
+2019,SOM,Orage,1
+2019,SOM,Sécheresse,1
+2019,SRB,Inondation,1
+2019,SSD,Incendies,1
+2019,SSD,Inondation,2
+2019,SVK,Orage,1
+2019,SWZ,Sécheresse,1
+2019,SYR,Inondation,1
+2019,TCD,Inondation,1
+2019,THA,Inondation,1
+2019,THA,Orage,1
+2019,THA,Sécheresse,1
+2019,TJK,Inondation,1
+2019,TUR,Inondation,3
+2019,TWN,Orage,1
+2019,TZA,Inondation,4
+2019,TZA,Orage,1
+2019,UGA,Inondation,5
+2019,URY,Inondation,3
+2019,USA,Incendies,2
+2019,USA,Inondation,4
+2019,USA,Orage,14
+2019,VEN,Inondation,1
+2019,VNM,Inondation,5
+2019,VNM,Orage,2
+2019,VNM,Sécheresse,1
+2019,YEM,Inondation,3
+2019,ZAF,Inondation,4
+2019,ZAF,Orage,1
+2019,ZAF,Sécheresse,1
+2019,ZMB,Inondation,1
+2019,ZMB,Sécheresse,1
+2019,ZWE,Inondation,1
+2019,ZWE,Orage,1
