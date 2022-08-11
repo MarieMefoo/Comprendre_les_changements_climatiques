@@ -27,6 +27,7 @@ Pour le passage à la visualisation sur  Tableau, après le traitement de donné
 - **Sea_mean.csv**
 - **Disaster.csv**
 - **table_GES2.csv**
+- **GES_sector**: Table regroupant les différents secteurs d'emission des gaz à effet de serre.
 
 ## **Compétences évaluées**
 - Communiquer ses résultats à l’aide de visualisations
