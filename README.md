@@ -29,6 +29,19 @@ Pour le passage à la visualisation sur  Tableau, après le traitement de donné
 - **table_GES2.csv**
 - **GES_sector.csv**: Table regroupant les différents secteurs d'emission des gaz à effet de serre.
 
+## **Auteur**
+*MEFO'O Marie Armelle*
+projet réalisé pendant la formation de data analyst chez openclassrooms de juin 2021 à avril 2022
+
+## Remerciements
+* L'organisme CITEFA pour toutes ses publications et sources de données disponibles sur son [portail](https://www.citepa.org/fr/2020_06_a07/).
+* Le groupe d'experts intergouvernemental sur l'évolution du climat (**GIEC**) principal acteur d'examination et d'évaluation des données scientifiques en lien avec le climat.
+
+Sans oublier la FAO, la Banque mondiale...
+* Mohamed Hassib : mentor Openclassrooms
+
+**Grand merci aux différents auteurs de revues et publications de contenus clairs, de qualités et de hautes envergures.**
+
 ## **Compétences évaluées**
 - Communiquer ses résultats à l’aide de visualisations
 - Rédiger un rapport d'analyse statistique
