@@ -43,5 +43,10 @@ Sans oublier la FAO, la Banque mondiale...
 **Grand merci aux différents auteurs de revues et publications de contenus clairs, de qualités et de hautes envergures.**
 
 ## **Compétences évaluées**
+- Créer un tableau de bord en réponse à des questions analytiques
 - Communiquer ses résultats à l’aide de visualisations
+- Générer des graphiques adaptés aux types de données à disposition
 - Rédiger un rapport d'analyse statistique
+## Livrables
+- Liens vers l'histoire tableau publié sur tableau public
+- Export du fichier tableau public
